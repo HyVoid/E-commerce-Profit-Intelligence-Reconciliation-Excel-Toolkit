@@ -8,8 +8,7 @@
 
 > ## **No signup. No installation. Free.**
 >
-> 🌐 **Open in Browser**  
-> HTML Live Demo *(Coming Soon)*
+> 🌐 **Open in Browser** → [*HTML Live Demo*](https://hyvoid.github.io/E-commerce-Profit-Intelligence-Reconciliation-Excel-Toolkit/)
 >
 > 📥 **Download Excel**  
 > [*google doc view*](https://docs.google.com/spreadsheets/d/1B3V8OhV7BKFgfmOSKyl8jBB-Peb8NxRZLX22Qpb5T28/edit?usp=sharing)
