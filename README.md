@@ -17,22 +17,6 @@
 
 ---
 
-# Screenshots
-
-### Browser Version
-
-<!-- screenshot: browser version -->
-
-*Interactive browser interface showing order-level profitability, reconciliation status, shipping confidence, and executive KPIs without requiring spreadsheet software.*
-
-### Excel Version
-
-<!-- screenshot: excel version -->
-
-*Excel workbook with structured data inputs, automated calculation engine, reconciliation workspace, and management dashboard powered by modern dynamic array formulas.*
-
----
-
 # What It Helps You Track
 
 - True order-level profit after shipping, payment fees, marketplace commissions, VAT, refunds, and product costs.
