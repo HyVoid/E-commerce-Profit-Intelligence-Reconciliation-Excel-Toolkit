@@ -6,7 +6,9 @@
 
 **Analyze true order-level profitability across multiple sales channels, currencies, shipping models, and payout systems—directly in the browser or Excel, with no installation, no signup, and no manual calculations.**
 
-> ## **No signup. No installation. Free.**
+**No signup. No installation. Free in your browser.**
+
+Try the browser version for free. If you need the Excel version, you can buy it with a 7-day money-back guarantee.
 >
 > 🌐 **Open in Browser** → [*HTML Live Demo*](https://hyvoid.github.io/E-commerce-Profit-Intelligence-Reconciliation-Excel-Toolkit/)
 >
