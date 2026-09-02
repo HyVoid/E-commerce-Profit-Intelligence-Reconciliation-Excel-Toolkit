@@ -13,7 +13,7 @@ Try the browser version for free. If you need the Excel version, you can buy it 
 > 🌐 **Open in Browser** → [*HTML Live Demo*](https://hyvoid.github.io/E-commerce-Profit-Intelligence-Reconciliation-Excel-Toolkit/)
 >
 > 📥 **Download Excel**  
-> [*excel template purchase*](https://alexhasgreatestuff.gumroad.com/l/xsbprl?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=ecommerce-profit-intelligence)
+> [*excel template purchase*](https://www.theseusworkshop.com/l/xsbprl?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=ecommerce-profit-intelligence)
 
 ---
 
