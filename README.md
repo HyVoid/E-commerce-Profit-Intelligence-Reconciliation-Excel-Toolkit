@@ -516,7 +516,7 @@ Outputs include reconciliation status, monetary differences, and configurable ex
 - **Rental Property Operations Toolkit** — Monitor occupancy, vacancies, maintenance, and rental performance from a single workbook.
 - **Project Portfolio Planning Toolkit** — Track budgets, schedules, priorities, and delivery progress across multiple initiatives.
 
-More operational decision-support tools are available through the Gumroad store and GitHub profile.
+More operational decision-support tools are available through our [Website](https://www.theseusworkshop.com/) and GitHub profile.
 
 ---
 
