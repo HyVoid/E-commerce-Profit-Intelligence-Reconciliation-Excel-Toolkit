@@ -1,3 +1,5 @@
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+
 # E-commerce Profit Intelligence & Reconciliation Excel Toolkit
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
@@ -17,7 +19,7 @@ Try the browser version for free. If you need the Excel version, you can buy it 
 
 ---
 
-# What It Helps You Track
+## What It Helps You Track
 
 - True order-level profit after shipping, payment fees, marketplace commissions, VAT, refunds, and product costs.
 - Historical profitability that remains accurate even when supplier costs, exchange rates, or platform fees change later.
@@ -28,7 +30,7 @@ Try the browser version for free. If you need the Excel version, you can buy it 
 
 ---
 
-# Quick Start Workflow
+## Quick Start Workflow
 
 1. **Configure business parameters once**
 
@@ -50,7 +52,7 @@ Try the browser version for free. If you need the Excel version, you can buy it 
 
 ---
 
-# Why I Built This
+## Why I Built This
 
 Many e-commerce businesses believe they already know their profit because every platform provides revenue reports, payout summaries, advertising dashboards, and accounting exports.
 
@@ -73,7 +75,7 @@ That difference directly influences pricing decisions, advertising budgets, supp
 Rather than creating another reporting dashboard, this workbook packages a reusable financial reasoning framework into an operational Excel toolkit. The objective is not to produce more reports—it is to make business decisions using numbers that reflect how money actually moved through the business.
 
 ---
-# Common E-commerce Profitability Problems This Solves
+## Common E-commerce Profitability Problems This Solves
 
 | Problem | Without This Toolkit | With This Toolkit |
 |----------|----------------------|-------------------|
@@ -86,7 +88,7 @@ Rather than creating another reporting dashboard, this workbook packages a reusa
 
 ---
 
-# Who This Is For
+## Who This Is For
 
 This toolkit is designed for professionals who need reliable profitability analysis without implementing a large ERP or business intelligence platform.
 
@@ -105,7 +107,7 @@ No spreadsheet expertise is required. Open the browser version or Excel workbook
 
 ---
 
-# About
+## About
 
 I build lightweight Excel-based decision-support tools for operational problems that become difficult once too many moving parts interact at the same time.
 
@@ -117,7 +119,7 @@ This toolkit is one example of that philosophy. Rather than replacing existing b
 
 ---
 
-# Technical Details
+## Technical Details
 
 <details>
 <summary><strong>For technical reviewers, Excel practitioners, and collaborators</strong></summary>
