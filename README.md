@@ -1,121 +1,109 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
-# E-commerce Profit Intelligence & Reconciliation Excel Toolkit
+# E-commerce Profit & Reconciliation Excel Toolkit: Omnichannel Margin Calculator
+
+
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-success)
 ![Tool](https://img.shields.io/badge/Tool-Decision%20Support-orange)
 
-**Analyze true order-level profitability across multiple sales channels, currencies, shipping models, and payout systems—directly in the browser or Excel, with no installation, no signup, and no manual calculations.**
+<p><strong>E-commerce Profit Intelligence & Reconciliation Excel Toolkit</strong> is a definitive financial modeling spreadsheet designed to analyze true <strong>order-level profitability</strong> and <strong>SKU margins</strong> across multiple sales channels (Shopify, Amazon, bol.com), cross-border currencies, shipping models, and payment gateway systems. Eliminate accounting discrepancies with this ready-to-use <strong>e-commerce financial reconciliation template</strong>—run it directly in your browser or Excel, with no SaaS installation, no monthly subscriptions, and no manual data entry formulas.</p>
 
 **No signup. No installation. Free in your browser.**
 
-Try the browser version for free. If you need the Excel version, you can buy it with a 30-day, no-questions-asked money-back guarantee.
+Try the browser version for free. If you need the permanent Excel version for secure, local month-end closing, you can buy it with a 30-day, no-questions-asked money-back guarantee.
+
+> 🌐 **Live Interactive Demo** → [*Try the Free E-commerce Profit Margin Calculator (Browser-based HTML)*](https://hyvoid.github.io/E-commerce-Profit-Intelligence-Reconciliation-Excel-Toolkit/)
 >
-> 🌐 **Open in Browser** → [*HTML Live Demo*](https://hyvoid.github.io/E-commerce-Profit-Intelligence-Reconciliation-Excel-Toolkit/)
->
-> 📥 **Download Excel**  
-> [*excel template purchase*](https://www.theseusworkshop.com/l/xsbprl?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=ecommerce-profit-intelligence)
+> 📥 **Download Full Template** → [*Download the Reusable E-commerce Profit Reconciliation Excel Toolkit*](https://www.theseusworkshop.com/l/xsbprl?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=ecommerce-profit-intelligence)
 
 ---
 
-## What It Helps You Track
+## E-commerce Financial Pain Points & Automated Solutions
 
-- True order-level profit after shipping, payment fees, marketplace commissions, VAT, refunds, and product costs.
-- Historical profitability that remains accurate even when supplier costs, exchange rates, or platform fees change later.
-- Shipping cost confidence by distinguishing actual logistics invoices from progressively estimated shipping scenarios.
-- Financial reconciliation across orders, payouts, logistics invoices, and banking records before discrepancies become accounting problems.
-- Margin trends by marketplace, country, currency, SKU, or fulfillment strategy using one consistent financial model.
-- Orders that appear profitable on the surface but are actually losing money because of hidden operational costs.
+Stop guessing your gross margins. This toolkit maps your most complex omnichannel accounting challenges directly to automated financial solutions.
 
----
-
-## Quick Start Workflow
-
-1. **Configure business parameters once**
-
-   Open the **Parameters** sheets and define the operating assumptions that rarely change, including base currency, default VAT rate, reconciliation tolerance, payment fee defaults, and historical rate tables. These settings become the single source of truth for every subsequent calculation without requiring repeated adjustments.
-
-2. **Import existing operational data**
-
-   Export orders, payouts, logistics invoices, refunds, and advertising spend from Shopify, Amazon, bol.com, accounting software, or any existing spreadsheet. Paste each dataset into its designated input sheet without rebuilding formulas or restructuring the workbook.
-
-3. **Review profitability immediately**
-
-   Switch to the calculation engine or executive dashboard. Order-level profit, historical cost matching, shipping allocation, reconciliation status, and management KPIs update automatically, providing operational visibility within minutes instead of hours.
-
-4. **Refresh periodically**
-
-   Repeat the import process weekly, monthly, or whenever new operational data becomes available. Historical calculations remain unchanged while new transactions automatically participate in the same analytical framework.
-
-**Set a few key parameters. Drop in existing data. Get the analysis. Refresh whenever new business data arrives.**
+| Core E-commerce Financial Pain Point | How This Profit Analysis Toolkit Solves It |
+| :--- | :--- |
+| **Hidden Operational Costs & Inaccurate SKU Margins** | Calculates true **net order-level profit** after deducting actual 3PL shipping fees, Stripe/PayPal payment gateway fees, marketplace commissions, VAT, refunds, and actual COGS. |
+| **Distorted Data from Changing Supplier Costs & FX Rates** | Locks in **historical profitability** using point-in-time exchange rates and date-specific procurement costs. Past month-end reports remain perfectly accurate even when your supplier raises prices today. |
+| **Shipping Cost Allocation Guesswork for Bundles** | Replaces flat-rate estimates with **actual logistics invoice reconciliation**, intelligently distributing real freight costs across multi-SKU shipments based on dimensional weight or custom logic. |
+| **Marketplace Payouts Don't Match Bank Deposits** | Automates **financial reconciliation** across individual customer orders, aggregate marketplace payouts, logistics billing, and actual banking records before month-end closing. |
+| **Profit Bleed from Invisible Operational Inefficiencies** | Visualizes **margin trends** by marketplace platform, destination country, currency, SKU, or 3PL fulfillment strategy via a unified, executive-ready dashboard. |
 
 ---
 
-## Why I Built This
+## How to Calculate Your E-commerce Profit (Quick Start Tutorial)
 
-Many e-commerce businesses believe they already know their profit because every platform provides revenue reports, payout summaries, advertising dashboards, and accounting exports.
+Achieve complete financial visibility in four guided steps without writing a single Excel formula.
 
-The problem is that these reports rarely agree with each other.
+1. **Configure Your Baseline Financial Parameters (One-time Setup)**  
+   Open the **Parameters Dashboard** and define your operating assumptions: base reporting currency, default VAT rates, accounting reconciliation tolerance thresholds, payment gateway fee structures, and historical FX rate tables. This creates a single source of truth for your entire ecommerce financial model.
 
-Shipping may be charged per shipment rather than per product. Supplier costs change throughout the year. Exchange rates fluctuate daily. Payment providers deduct different fees. Refunds happen weeks after the original sale. Marketplace commissions depend on category and country. When each system measures only one piece of the business, profitability becomes an approximation rather than an auditable financial result.
+2. **Import Omnichannel Sales & Logistics Data (Data Intake)**  
+   Export raw CSV reports (orders, settlement payouts, 3PL logistics invoices, refunds, advertising spend) directly from Shopify, Amazon Seller Central, bol.com, or your accounting software. Paste them into the designated **Input Modules** without rebuilding formulas or cleaning data.
 
-I built this toolkit after repeatedly seeing businesses make operational decisions using numbers that were internally consistent but financially incorrect.
+3. **Run the Automated Profitability & Reconciliation Engine**  
+   Switch to the **Calculation Engine** or **Executive Dashboard**. Watch as the template automatically matches historical COGS, allocates shipping expenses to the SKU level, checks reconciliation status, and updates management KPIs (Gross Margin, Net Profit, ROAS) in real-time.
 
-For example, a bundle containing one primary product and two accessories might appear to generate a **$28 profit** if shipping is allocated equally across products and current supplier costs are applied to historical orders.
+4. **Refresh for Continuous Month-End Closing**  
+   Repeat the data import process weekly or monthly. Old data remains financially locked and auditable, while new transactions are instantly processed through your standardized framework.
 
-After reconstructing the same transaction using historical purchase costs, shipment-level freight allocation, actual payment deductions, and refund attribution, the real profit may only be **$8**.
-
-Nothing changed about the order.
-
-Only the analytical model changed.
-
-That difference directly influences pricing decisions, advertising budgets, supplier negotiations, and inventory purchasing.
-
-Rather than creating another reporting dashboard, this workbook packages a reusable financial reasoning framework into an operational Excel toolkit. The objective is not to produce more reports—it is to make business decisions using numbers that reflect how money actually moved through the business.
-
----
-## Common E-commerce Profitability Problems This Solves
-
-| Problem | Without This Toolkit | With This Toolkit |
-|----------|----------------------|-------------------|
-| Shipping cost is allocated equally across every SKU | High-margin products subsidize low-margin products, creating misleading profitability rankings. | Shipping follows a structured allocation hierarchy that prioritizes actual logistics invoices before falling back to validated estimation methods. |
-| Historical profits change whenever supplier costs are updated | Previous months become impossible to compare because old orders inherit today's costs. | Every order is evaluated using the cost, exchange rate, and fee schedule that was valid on the transaction date. |
-| Marketplace payouts never reconcile with internal reports | Finance teams manually investigate discrepancies across several independent systems. | Orders, payouts, logistics invoices, and reconciliation results are connected through one consistent financial model. |
-| Bundle products appear unusually profitable | Free gifts, accessories, and bundled components hide their true procurement cost. | Bundle rules allocate procurement costs back to the complete order before profitability is calculated. |
-| Multiple currencies distort management reporting | Revenue, logistics, and procurement are compared using inconsistent exchange rates. | Every financial component is normalized through historical point-in-time exchange rates into a single reporting currency. |
-| Refunds distort current-period performance | Refunds reduce profit only when they occur instead of correcting the original sale. | Refunds are attributed back to the originating order, preserving accurate historical profitability and trend analysis. |
+🚀 **Ready to transition from estimating margins to knowing them?**  
+*Finished testing your first batch of orders in the browser? [Download the full Reusable E-commerce Excel Template](https://www.theseusworkshop.com/l/xsbprl) to permanently automate your weekly financial reporting, save your data locally, and build a repeatable month-end reconciliation loop.*
 
 ---
 
-## Who This Is For
+## The Business Logic & Methodology
 
-This toolkit is designed for professionals who need reliable profitability analysis without implementing a large ERP or business intelligence platform.
+This toolkit operates on a fundamental shift from "cash-basis illusions" to **"Accrual-like Order-Unit Economics."** 
 
-Typical users include:
+The business problem it solves is the **Growth Illusion**: when top-line revenue looks healthy on a Shopify dashboard, but bottom-line net profit is bleeding out due to invisible operational friction (high return rates, hidden payment gateway surcharges, misallocated freight costs).
 
-- E-commerce founders managing multiple sales channels.
-- Finance managers responsible for operational profitability.
-- Marketplace operators selling through Shopify, Amazon, bol.com, or similar platforms.
-- Agencies supporting multiple online stores.
-- Fractional CFOs building repeatable financial review processes.
-- Excel professionals who need an auditable analytical framework rather than another dashboard.
-
-This toolkit is **not** intended to replace accounting software, ERP platforms, warehouse management systems, or enterprise financial consolidation solutions.
-
-No spreadsheet expertise is required. Open the browser version or Excel workbook, import operational data, and begin analyzing profitability immediately.
+**Core Methodologies Included:**
+*   **Waterfall Cost Attribution:** Revenue is systematically stripped of VAT/Sales Tax → Payment Processing Fees → Marketplace Commissions → Exact Date COGS → Actual Freight = True Net Margin.
+*   **Deterministic Order Matching:** Unlike basic cash-flow spreadsheets, this model anchors every financial event (delayed payouts, late refunds, retroactive supplier discounts) strictly back to the *Originating Order ID*. This prevents period-shifting distortions where last month's refunds destroy this month's profitability metrics.
+*   **Hierarchical Freight Allocation:** Prioritizes actual logistics invoices for shipping costs; only falls back to validated algorithmic estimation when official billing is pending.
 
 ---
 
-## About
+## Resolving Common E-commerce Accounting & Reconciliation Problems
 
-I build lightweight Excel-based decision-support tools for operational problems that become difficult once too many moving parts interact at the same time.
+| Operational Accounting Challenge | Without Financial Reconciliation | With This Profit Intelligence Toolkit |
+| :--- | :--- | :--- |
+| **Flat-Rate Shipping Misallocation** | High-margin hero products subsidize heavy, low-margin SKUs, creating misleading profitability rankings and bad inventory decisions. | Shipping follows a **structured allocation hierarchy**, prioritizing actual logistics invoices before falling back to validated dimensional/weight estimation methods. |
+| **Dynamic COGS (Cost of Goods Sold)** | Previous months' financials break because old orders dynamically inherit today's updated supplier pricing. | Every order is calculated using the **exact COGS, FX rate, and fee schedule** that was valid on the specific transaction date. |
+| **Payout Discrepancies & Missing Funds** | Finance teams spend hours manually investigating discrepancies across Shopify, Amazon, Stripe, and bank statements. | Orders, platform payouts, 3PL invoices, and reconciliation results are inextricably linked through one **auditable financial model**. |
+| **Bundles & Free Gift Margin Tracking** | Free gifts, promotional accessories, and bundled components completely hide their true procurement cost. | Advanced **bundle rules** allocate procurement costs accurately back to the complete parent order before final profitability is calculated. |
+| **Cross-Border Multi-Currency Chaos** | Revenue, logistics, and procurement are compared using inconsistent, floating exchange rates across different dates. | Every financial component is normalized through **historical point-in-time exchange rates** into your single base reporting currency. |
+| **Refunds Distorting Current-Period ROI** | Refunds reduce today's profit artificially, rather than correcting the metrics of the original sale period. | Refunds are strictly **attributed back to the originating order ID**, preserving highly accurate historical profitability and marketing trend analysis. |
 
-Instead of asking how to automate every task, I usually begin with a different question:
+---
 
-> **"What information needs to exist in one place so the next business decision can be made with confidence?"**
+## Who Needs This E-commerce Profit Margin Tracker? (Use Cases & Job Roles)
 
-This toolkit is one example of that philosophy. Rather than replacing existing business systems, it brings together the financial information that already exists and organizes it into a repeatable analytical framework for pricing, purchasing, operational reviews, and profitability decisions.
+This toolkit is designed for data-driven professionals who need enterprise-grade profitability analysis without the six-figure cost or 6-month implementation time of a large ERP or BI (Business Intelligence) platform.
+
+*   **E-commerce Founders & Brand Owners:** Need an *omnichannel profit dashboard* to aggressively scale multiple sales channels without accidentally overspending on ads based on false gross margin assumptions.
+*   **Fractional CFOs & Financial Controllers:** Require a reliable *financial reconciliation Excel template* to bridge the chaotic gap between messy Shopify/Amazon raw exports and formal accounting software (Xero/QuickBooks) during the month-end close.
+*   **Marketplace Operations Managers:** Looking for a precise *order-level profitability calculator* to evaluate the true ROI of promotional bundles, flash sales, and cross-border 3PL shipping strategies.
+*   **Performance Marketing Agencies:** Need a clear *ROAS and profit attribution tool* to prove the actual net profit generated from advertising spend to their clients, factoring in returns and COGS.
+*   **Advanced Excel Professionals:** Who need a transparent, auditable analytical framework where the logic is visible, rather than another SaaS "black box" dashboard.
+
+*(Note: This toolkit is an analytical decision-support engine. It is **not** intended to replace official double-entry accounting software, warehouse management systems (WMS), or legal tax compliance platforms.)*
+
+---
+
+## About The Creator
+
+I build lightweight, high-performance Excel-based decision-support tools for operational bottlenecks that become unmanageable once too many moving parts (platforms, currencies, logistics) interact at the same time.
+
+Instead of asking how to buy another SaaS subscription to automate every task, I usually begin with a different question:
+
+> **"What specific financial data needs to exist in one single, auditable place so the next strategic business decision can be made with absolute confidence?"**
+
+This toolkit embodies that philosophy. Rather than trying to replace your existing business systems, it ingests the scattered financial data that already exists and orchestrates it into a repeatable analytical framework for pricing optimization, inventory purchasing, operational reviews, and definitive profitability decisions.
 
 ---
 
