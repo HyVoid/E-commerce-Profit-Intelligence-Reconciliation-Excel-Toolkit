@@ -1,121 +1,109 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
-# Excel-Toolkit für E-Commerce-Profit-Intelligenz & Abstimmung
+
+# E-Commerce-Gewinn- & Abstimmungs-Excel-Toolkit: Omnichannel-Margenrechner
+<img width="1379" height="790" alt="image" src="https://github.com/user-attachments/assets/4e150c8b-7711-4d92-83fb-9bafae27f171" />
+
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-success)
 ![Tool](https://img.shields.io/badge/Tool-Decision%20Support-orange)
 
-**Analysieren Sie die wahre Profitabilität auf Bestellniveau über mehrere Vertriebskanäle, Währungen, Versandmodelle und Auszahlungssysteme hinweg—direkt im Browser oder in Excel, ohne Installation, ohne Registrierung und ohne manuelle Berechnungen.**
+<p><strong>Das Excel-Toolkit für E-Commerce-Gewinnintelligenz & Abstimmung</strong> ist ein maßgebliches Finanzmodellierungs-Tabellenblatt, das die wahre <strong>Profitabilität auf Bestellniveau</strong> und die <strong>SKU-Margen</strong> über mehrere Vertriebskanäle (Shopify, Amazon, bol.com), grenzüberschreitende Währungen, Versandmodelle und Zahlungs-Gateway-Systeme hinweg analysiert. Beseitigen Sie buchhalterische Diskrepanzen mit dieser einsatzbereiten <strong>Vorlage zur finanziellen E-Commerce-Abstimmung</strong>—führen Sie sie direkt im Browser oder in Excel aus, ohne SaaS-Installation, ohne monatliche Abonnements und ohne manuelle Formeleingabe.</p>
 
 **Keine Registrierung. Keine Installation. Kostenlos in Ihrem Browser.**
 
-Testen Sie die Browser-Version kostenlos. Wenn Sie die Excel-Version benötigen, können Sie diese mit 30-tägiger Geld-zurück-Garantie ohne Rückfragen erwerben.
+Testen Sie die Browserversion kostenlos. Wenn Sie die dauerhafte Excel-Version für eine sichere, lokale Monatsabschluss-Verrechnung benötigen, können Sie sie mit einer 30-tägigen, unverbindlichen Geld-zurück-Garantie kaufen.
+
+> 🌐 **Live-Interaktive Demo** → [*Testen Sie den kostenlosen E-Commerce-Gewinnmargenrechner (HTML im Browser)*](https://hyvoid.github.io/ecommerce-profit-calculator-excel/)
 >
-> 🌐 **Im Browser öffnen** → [*HTML-Live-Demo*](https://hyvoid.github.io/E-commerce-Profit-Intelligence-Reconciliation-Excel-Toolkit/)
->
-> 📥 **Excel herunterladen**  
-> [*Excel-Vorlage kaufen*](https://www.theseusworkshop.com/l/xsbprl?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=ecommerce-profit-intelligence)
+> 📥 **Vollständige Vorlage herunterladen** → [*Laden Sie das wiederverwendbare E-Commerce-Gewinn- & Abstimmungs-Excel-Toolkit herunter*](https://www.theseusworkshop.com/l/xsbprl?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=ecommerce-profit-intelligence)
 
 ---
 
-## Was Sie damit verfolgen können
+## Finanzielle Schmerzpunkte im E-Commerce & automatisierte Lösungen
 
-- Wahrer Gewinn auf Bestellniveau nach Versand, Zahlungsgebühren, Marktplatz-Provisionen, MwSt., Rückerstattungen und Produktkosten.
-- Historische Profitabilität, die auch dann korrekt bleibt, wenn sich Lieferantenkosten, Wechselkurse oder Plattformgebühren später ändern.
-- Versandkosten-Vertrauen durch Unterscheidung tatsächlicher Logistikrechnungen von progressiv geschätzten Versandszenarien.
-- Finanzielle Abstimmung über Bestellungen, Auszahlungen, Logistikrechnungen und Bankaufzeichnungen, bevor Abweichungen zu Buchhaltungsproblemen werden.
-- Margin-Trends nach Marktplatz, Land, Währung, SKU oder Fulfillment-Strategie mit einem einheitlichen Finanzmodell.
-- Bestellungen, die oberflächlich profitabel erscheinen, aber wegen versteckter Betriebskosten tatsächlich Geld verlieren.
+Hören Sie auf, Ihre Bruttomargen zu schätzen. Dieses Toolkit bildet Ihre komplexesten Omnichannel-Herausforderungen in der Buchhaltung direkt auf automatisierte Finanzlösungen ab.
 
----
-
-## Schnellstart-Ablauf
-
-1. **Geschäftsparameter einmal konfigurieren**
-
-   Öffnen Sie die Blätter **Parameters** und definieren Sie die Betriebsannahmen, die sich selten ändern, einschließlich Basiswährung, Standard-Mehrwertsteuersatz, Abstimmungstoleranz, Standard-Zahlungsgebühren und historischen Kurstabellen. Diese Einstellungen werden zur einzigen Datenquelle für jede nachfolgende Berechnung, ohne wiederholte Anpassungen zu erfordern.
-
-2. **Bestehende Betriebsdaten importieren**
-
-   Exportieren Sie Bestellungen, Auszahlungen, Logistikrechnungen, Rückerstattungen und Werbeausgaben aus Shopify, Amazon, bol.com, Buchhaltungssoftware oder einer bestehenden Tabelle. Fügen Sie jeden Datensatz in sein vorgesehenes Eingabeblatt ein, ohne Formeln neu zu erstellen oder die Arbeitsmappe umzustrukturieren.
-
-3. **Profitabilität sofort prüfen**
-
-   Wechseln Sie zur Berechnungs-Engine oder zum Management-Dashboard. Gewinn auf Bestellniveau, historische Kostenabgleichung, Versandverteilung, Abstimmungsstatus und Management-KPIs aktualisieren automatisch und bieten betriebliche Visibilität in Minuten statt Stunden.
-
-4. **Regelmäßig aktualisieren**
-
-   Wiederholen Sie den Importvorgang wöchentlich, monatlich oder wann immer neue Betriebsdaten verfügbar werden. Historische Berechnungen bleiben unverändert, während neue Transaktionen automatisch am selben analytischen Rahmen teilnehmen.
-
-**Legen Sie einige wenige Schlüsselparameter fest. Fügen Sie bestehende Daten ein. Erhalten Sie die Analyse. Aktualisieren Sie, wann immer neue Geschäftsdaten eintreffen.**
+| Zentraler finanzieller Schmerzpunkt im E-Commerce | Wie dieses Gewinnanalyse-Toolkit ihn löst |
+| :--- | :--- |
+| **Versteckte Betriebskosten & ungenaue SKU-Margen** | Berechnet den wahren **Nettogewinn auf Bestellniveau** nach Abzug tatsächlicher 3PL-Versandkosten, Stripe-/PayPal-Zahlungs-Gateway-Gebühren, Marktplatz-Provisionen, MwSt., Rückerstattungen und tatsächlicher COGS. |
+| **Verzerrte Daten durch sich ändernde Lieferantenkosten & FX-Kurse** | Sichert die **historische Profitabilität** mithilfe zeitpunktgenauer Wechselkurse und datumsspezifischer Beschaffungskosten. Monatsberichte der Vergangenheit bleiben perfekt korrekt, selbst wenn Ihr Lieferant heute die Preise erhöht. |
+| **Rätselraten bei der Zuweisung der Versandkosten für Bundles** | Ersetzt Pauschalschätzungen durch **tatsächliche Abstimmung von Logistikrechnungen** und verteilt echte Frachtkosten intelligent auf Multi-SKU-Sendungen—basierend auf Volumengewicht oder benutzerdefinierter Logik. |
+| **Marktplatz-Auszahlungen stimmen nicht mit Bankeinzahlungen überein** | Automatisiert die **finanzielle Abstimmung** über einzelne Kundenbestellungen, aggregierte Marktplatz-Auszahlungen, Logistikabrechnungen und tatsächliche Bankunterlagen—vor dem Monatsabschluss. |
+| **Gewinnverlust durch unsichtbare betriebliche Ineffizienzen** | Visualisiert **Margin-Trends** nach Marktplattform, Zielland, Währung, SKU oder 3PL-Fulfillment-Strategie—über ein einheitliches, für das Management aufbereitetes Dashboard. |
 
 ---
 
-## Warum ich dies entwickelt habe
+## So berechnen Sie Ihren E-Commerce-Gewinn (Schnellstart-Tutorial)
 
-Viele E-Commerce-Unternehmen glauben, ihren Gewinn bereits zu kennen, weil jede Plattform Umsatzberichte, Auszahlungsübersichten, Werbe-Dashboards und Buchhaltungsexporte bereitstellt.
+Erreichen Sie vollständige finanzielle Transparenz in vier geführten Schritten, ohne eine einzige Excel-Formel zu schreiben.
 
-Das Problem ist, dass diese Berichte selten miteinander übereinstimmen.
+1. **Konfigurieren Sie Ihre finanziellen Basisparameter (einmalige Einrichtung)**  
+   Öffnen Sie das **Parameter-Dashboard** und definieren Sie Ihre betrieblichen Annahmen: Basis-Berichtswährung, Standard-MwSt.-Sätze, Toleranzschwellen für die buchhalterische Abstimmung, Gebührenstrukturen der Zahlungs-Gateways und historische FX-Kurstabellen. Dies schafft eine einzige Quelle der Wahrheit für Ihr gesamtes E-Commerce-Finanzmodell.
 
-Versand kann pro Sendung statt pro Produkt berechnet werden. Lieferantenkosten ändern sich über das Jahr. Wechselkurse schwanken täglich. Zahlungsdienstleister ziehen unterschiedliche Gebühren ab. Rückerstattungen erfolgen Wochen nach dem ursprünglichen Verkauf. Marktplatz-Provisionen hängen von Kategorie und Land ab. Wenn jedes System nur ein Stück des Geschäfts misst, wird Profitabilität zu einer Annäherung statt zu einem prüffähigen Finanzergebnis.
+2. **Importieren Sie Omnichannel-Vertriebs- & Logistikdaten (Datenaufnahme)**  
+   Exportieren Sie rohe CSV-Berichte (Bestellungen, Abwicklungsauszahlungen, 3PL-Logistikrechnungen, Rückerstattungen, Werbeausgaben) direkt aus Shopify, Amazon Seller Central, bol.com oder Ihrer Buchhaltungssoftware. Fügen Sie sie in die vorgesehenen **Eingabemodule** ein, ohne Formeln neu aufzubauen oder Daten zu bereinigen.
 
-Ich habe dieses Toolkit entwickelt, nachdem ich wiederholt erlebt hatte, wie Unternehmen betriebliche Entscheidungen mit Zahlen trafen, die intern konsistent, aber finanziell falsch waren.
+3. **Starten Sie die automatisierte Profitabilitäts- & Abstimmungs-Engine**  
+   Wechseln Sie zur **Berechnungs-Engine** oder zum **Executive Dashboard**. Beobachten Sie, wie die Vorlage automatisch historische COGS zuordnet, Versandkosten auf die SKU-Ebene verteilt, den Abstimmungsstatus prüft und die Management-KPIs (Gross Margin, Net Profit, ROAS) in Echtzeit aktualisiert.
 
-Beispielsweise könnte ein Bundle mit einem Hauptprodukt und zwei Zubehörteilen **28 $ Gewinn** zu erzeugen scheinen, wenn Versand gleichmäßig auf Produkte verteilt wird und aktuelle Lieferantenkosten auf historische Bestellungen angewendet werden.
+4. **Aktualisieren Sie für den kontinuierlichen Monatsabschluss**  
+   Wiederholen Sie den Datenimport wöchentlich oder monatlich. Alte Daten bleiben finanziell gesperrt und prüffähig, während neue Transaktionen sofort durch Ihren standardisierten Rahmen verarbeitet werden.
 
-Nach Rekonstruktion derselben Transaktion mit historischen Einkaufskosten, Versandverteilung auf Sendungsebene, tatsächlichen Zahlungsabzügen und Rückerstattungs-Zuordnung könnte der tatsächliche Gewinn nur **8 $** betragen.
-
-Nichts an der Bestellung hat sich geändert.
-
-Nur das analytische Modell hat sich geändert.
-
-Dieser Unterschied beeinflusst direkt Preisentscheidungen, Werbebudgets, Lieferantenverhandlungen und Inventareinkäufe.
-
-Statt ein weiteres Berichts-Dashboard zu erstellen, verpackt dieses Arbeitsbuch einen wiederverwendbaren finanziellen Argumentationsrahmen in ein betriebliches Excel-Toolkit. Das Ziel ist nicht, mehr Berichte zu produzieren—es ist, Geschäftsentscheidungen mit Zahlen zu treffen, die widerspiegeln, wie Geld tatsächlich durch das Unternehmen floss.
+🚀 **Bereit, vom Schätzen von Margen zu deren genauer Kenntnis überzugehen?**  
+*Haben Sie Ihre erste Testcharge von Bestellungen im Browser abgeschlossen? [Laden Sie die vollständige wiederverwendbare E-Commerce-Excel-Vorlage herunter](https://www.theseusworkshop.com/l/xsbprl), um Ihre wöchentliche Finanzberichterstattung dauerhaft zu automatisieren, Ihre Daten lokal zu speichern und eine wiederholbare Monatsabschluss-Abstimmungsschleife aufzubauen.*
 
 ---
 
-## Typische E-Commerce-Profitabilitätsprobleme, die dies löst
+## Die Geschäftslogik & Methodik
 
-| Problem | Ohne dieses Toolkit | Mit diesem Toolkit |
-|----------|----------------------|-------------------|
-| Versandkosten werden gleichmäßig auf jede SKU verteilt | Margenstarke Produkte subventionieren margenschwache Produkte, was irreführende Profitabilitäts-Rankings erzeugt. | Versand folgt einer strukturierten Verteilungshierarchie, die tatsächliche Logistikrechnungen vor validierten Schätzmethoden priorisiert. |
-| Historische Gewinne ändern sich, wann immer Lieferantenkosten aktualisiert werden | Vormonate werden unvergleichbar, weil alte Bestellungen die Kosten von heute erben. | Jede Bestellung wird mit den Kosten, dem Wechselkurs und dem Gebührenplan bewertet, die am Transaktionsdatum gültig waren. |
-| Marktplatz-Auszahlungen stimmen nie mit internen Berichten überein | Finanzteams untersuchen Abweichungen manuell über mehrere unabhängige Systeme hinweg. | Bestellungen, Auszahlungen, Logistikrechnungen und Abstimmungsergebnisse sind durch ein einheitliches Finanzmodell verbunden. |
-| Bundle-Produkte erscheinen ungewöhnlich profitabel | Gratis-Geschenke, Zubehör und gebündelte Komponenten verbergen ihre tatsächlichen Beschaffungskosten. | Bundle-Regeln verteilen Beschaffungskosten zurück auf die vollständige Bestellung, bevor Profitabilität berechnet wird. |
-| Mehrere Währungen verzerren das Management-Reporting | Umsatz, Logistik und Beschaffung werden mit inkonsistenten Wechselkursen verglichen. | Jede Finanzkomponente wird durch historische zeitpunktgenaue Wechselkurse in eine einzige Berichtswährung normalisiert. |
-| Rückerstattungen verzerren die Leistung der laufenden Periode | Rückerstattungen reduzieren den Gewinn nur bei ihrem Auftreten, statt den ursprünglichen Verkauf zu korrigieren. | Rückerstattungen werden der ursprünglichen Bestellung zugeordnet, was genaue historische Profitabilität und Trendanalyse bewahrt. |
+Dieses Toolkit basiert auf einem fundamentalen Wechsel von „Bargeld-Basis-Illusionen" zu **„Accrual-artiger Bestell-Unit-Ökonomie"**.
 
----
+Das Geschäftsproblem, das es löst, ist die **Wachstumsillusion**: Wenn der Umsatz auf dem Shopify-Dashboard gesund aussieht, der Nettogewinn am Ende aber durch unsichtbare betriebliche Reibung (hohe Retourenquoten, versteckte Zahlungs-Gateway-Zuschläge, falsch zugewiesene Frachtkosten) blutet.
 
-## Für wen dies gedacht ist
-
-Dieses Toolkit ist für Fachleute konzipiert, die zuverlässige Profitabilitätsanalysen benötigen, ohne ein großes ERP- oder Business-Intelligence-System zu implementieren.
-
-Typische Nutzer umfassen:
-
-- E-Commerce-Gründer, die mehrere Vertriebskanäle verwalten.
-- Finanzmanager, verantwortlich für betriebliche Profitabilität.
-- Marktplatz-Betreiber, die über Shopify, Amazon, bol.com oder ähnliche Plattformen verkaufen.
-- Agenturen, die mehrere Online-Shops unterstützen.
-- Teilzeit-CFOs, die wiederholbare Finanzprüfprozesse aufbauen.
-- Excel-Profis, die einen prüffähigen analytischen Rahmen statt eines weiteren Dashboards benötigen.
-
-Dieses Toolkit ist **nicht** dazu gedacht, Buchhaltungssoftware, ERP-Plattformen, Lagerverwaltungssysteme oder unternehmensweite Finanzkonsolidierungslösungen zu ersetzen.
-
-Keine Tabellenkalkulations-Expertise erforderlich. Öffnen Sie die Browser-Version oder die Excel-Arbeitsmappe, importieren Sie Betriebsdaten und beginnen Sie sofort mit der Profitabilitätsanalyse.
+**Enthaltene Kernmethodiken:**
+*   **Waterfall-Kostenzurechnung:** Vom Umsatz werden systematisch abgezogen: MwSt./Verkaufssteuer → Zahlungsabwicklungsgebühren → Marktplatz-Provisionen → COGS zum exakten Datum → tatsächliche Fracht = Echte Nettomarge.
+*   **Deterministisches Bestell-Matching:** Anders als einfache Cashflow-Tabellen verankert dieses Modell jedes Finanzereignis (verzögerte Auszahlungen, späte Rückerstattungen, rückwirkende Lieferantenrabatte) strikt an der *ursprünglichen Bestell-ID*. Dies verhindert periodenverschiebende Verzerrungen, bei denen die Rückerstattungen des Vormonats die Profitabilitätskennzahlen des laufenden Monats zerstören.
+*   **Hierarchische Frachtverteilung:** Priorisiert tatsächliche Logistikrechnungen für Versandkosten; greift nur dann auf eine validierte algorithmische Schätzung zurück, wenn die offizielle Abrechnung aussteht.
 
 ---
 
-## Über mich
+## Lösung häufiger E-Commerce-Buchhaltungs- & Abstimmungsprobleme
 
-Ich entwickle leichtgewichtige Excel-basierte Werkzeuge zur Entscheidungsunterstützung für betriebliche Probleme, die schwierig werden, sobald zu viele bewegliche Teile gleichzeitig interagieren.
+| Betriebliche buchhalterische Herausforderung | Ohne finanzielle Abstimmung | Mit diesem Gewinnintelligenz-Toolkit |
+| :--- | :--- | :--- |
+| **Falsche Zuweisung pauschaler Versandkosten** | Margenstarke „Held"-Produkte subventionieren schwere, margenschwache SKUs, was irreführende Profitabilitätsrankings und schlechte Bestandsentscheidungen erzeugt. | Der Versand folgt einer **strukturierten Zuweisungshierarchie**, die tatsächliche Logistikrechnungen priorisiert, bevor auf validierte Volumen-/Gewichtsschätzmethoden zurückgegriffen wird. |
+| **Dynamische COGS (Cost of Goods Sold)** | Die Finanzen vergangener Monate brechen, weil alte Bestellungen dynamisch die heute aktualisierten Lieferantenpreise erben. | Jede Bestellung wird mit dem **exakten COGS, dem FX-Kurs und dem Gebührenplan** berechnet, die am konkreten Transaktionsdatum gültig waren. |
+| **Auszahlungsdiskrepanzen & fehlende Gelder** | Finanzteams verbringen Stunden damit, Abweichungen manuell zwischen Shopify, Amazon, Stripe und Bankauszügen zu untersuchen. | Bestellungen, Plattformauszahlungen, 3PL-Rechnungen und Abstimmungsergebnisse sind untrennbar über ein **prüffähiges Finanzmodell** verbunden. |
+| **Margin-Tracking für Bundles & Gratisgeschenke** | Gratisgeschenke, Werbeaccessoires und gebündelte Komponenten verbergen ihre wahren Beschaffungskosten vollständig. | Fortgeschrittene **Bundle-Regeln** verteilen die Beschaffungskosten vor der endgültigen Profitabilitätsberechnung exakt zurück auf die vollständige Elternbestellung. |
+| **Grenzüberschreitendes Multi-Währungs-Chaos** | Umsatz, Logistik und Beschaffung werden über unterschiedliche Daten hinweg mit inkonsistenten, schwankenden Wechselkursen verglichen. | Jede Finanzkomponente wird über **historische zeitpunktgenaue Wechselkurse** in Ihre einzige Basis-Berichtswährung normalisiert. |
+| **Rückerstattungen verzerren den ROI der laufenden Periode** | Rückerstattungen reduzieren den heutigen Gewinn künstlich, statt die Kennzahlen der ursprünglichen Verkaufsperiode zu korrigieren. | Rückerstattungen werden strikt **der ursprünglichen Bestell-ID zugeordnet**, wodurch eine hochgenaue historische Profitabilität und Marketing-Trendanalyse erhalten bleibt. |
 
-Statt zu fragen, wie jede Aufgabe automatisiert werden kann, beginne ich normalerweise mit einer anderen Frage:
+---
 
-> **„Welche Informationen müssen an einem Ort vorhanden sein, damit die nächste Geschäftsentscheidung mit Überzeugung getroffen werden kann?"**
+## Wer braucht diesen E-Commerce-Gewinnmargen-Tracker? (Anwendungsfälle & Rollen)
 
-Dieses Toolkit ist ein Beispiel dieser Philosophie. Statt bestehende Geschäftssysteme zu ersetzen, bringt es die Finanzinformationen zusammen, die bereits existieren, und organisiert sie in einem wiederholbaren analytischen Rahmen für Preisgestaltung, Einkauf, betriebliche Prüfungen und Profitabilitätsentscheidungen.
+Dieses Toolkit ist für datengetriebene Fachleute konzipiert, die Profitabilitätsanalysen auf Enterprise-Niveau benötigen—ohne die sechstelligen Kosten oder die 6-monatige Implementierungszeit einer großen ERP- oder BI-Plattform (Business Intelligence).
+
+*   **E-Commerce-Gründer & Markeninhaber:** Benötigen ein *Omnichannel-Gewinn-Dashboard*, um mehrere Vertriebskanäle aggressiv zu skalieren, ohne auf Basis falscher Bruttomargenannahmen aus Versehen zu viel für Werbung auszugeben.
+*   **Teilzeit-CFOs & Finanzcontroller:** Benötigen eine verlässliche *finanzielle Abstimmungs-Excel-Vorlage*, um im Monatsabschluss die chaotische Lücke zwischen unordentlichen Shopify-/Amazon-Rohexporten und der formellen Buchhaltungssoftware (Xero/QuickBooks) zu überbrücken.
+*   **Marktplatz-Betriebsmanager:** Suchen einen präzisen *Profitabilitätsrechner auf Bestellniveau*, um die wahre Rendite von Aktionsbundles, Flash-Sales und grenzüberschreitenden 3PL-Versandstrategien zu bewerten.
+*   **Performance-Marketing-Agenturen:** Brauchen ein klares *ROAS- und Gewinn-Zuordnungstool*, um ihren Kunden den tatsächlichen Nettogewinn aus Werbeausgaben nachzuweisen—unter Berücksichtigung von Retouren und COGS.
+*   **Fortgeschrittene Excel-Profis:** Die einen transparenten, prüffähigen Analyserahmen mit sichtbarer Logik benötigen, statt eines weiteren SaaS-„Blackbox"-Dashboards.
+
+*(Hinweis: Dieses Toolkit ist eine analytische Entscheidungsunterstützungs-Engine. Es ist **nicht** dafür gedacht, offizielle Buchhaltungssoftware mit doppelter Buchführung, Lagerverwaltungssysteme (WMS) oder Plattformen zur gesetzlichen Steuerkonformität zu ersetzen.)*
+
+---
+
+## Über den Ersteller
+
+Ich entwickle leichtgewichtige, leistungsstarke Excel-basierte Entscheidungsunterstützungstools für betriebliche Engpässe, die unbeherrschbar werden, sobald zu viele bewegliche Teile (Plattformen, Währungen, Logistik) gleichzeitig interagieren.
+
+Statt zu fragen, wie man ein weiteres SaaS-Abo kauft, um jede Aufgabe zu automatisieren, beginne ich meist mit einer anderen Frage:
+
+> **„Welche konkreten Finanzdaten müssen an einem einzigen, prüffähigen Ort vorhanden sein, damit die nächste strategische Geschäftsentscheidung mit absoluter Sicherheit getroffen werden kann?"**
+
+Dieses Toolkit verkörpert diese Philosophie. Statt Ihre bestehenden Geschäftssysteme zu ersetzen, nimmt es die bereits vorhandenen verstreuten Finanzdaten auf und orchestriert sie in einen wiederholbaren Analyserahmen für Preisoptimierung, Bestandseinkauf, Betriebsüberprüfungen und endgültige Profitabilitätsentscheidungen.
 
 ---
 
@@ -126,7 +114,7 @@ Dieses Toolkit ist ein Beispiel dieser Philosophie. Statt bestehende Geschäftss
 
 ## Arbeitsmappen-Architektur
 
-Die Arbeitsmappe folgt einer Schichtarchitektur, die rohe Betriebsdaten von Finanzregeln, Berechnungslogik, Abstimmung und Management-Berichtswesen trennt. Diese Trennung minimiert Pflegeaufwand und stellt sicher, dass historische Berechnungen reproduzierbar bleiben.
+Die Arbeitsmappe folgt einer Schichtarchitektur, die rohe Betriebsdaten von Finanzregeln, Berechnungslogik, Abstimmung und Management-Berichtswesen trennt. Diese Trennung minimiert den Wartungsaufwand und stellt sicher, dass historische Berechnungen reproduzierbar bleiben.
 
 ```text
 Raw Data
@@ -202,27 +190,27 @@ Financial Reconciliation
 Management Dashboard
 ```
 
-Jede nachgelagerte Berechnung hängt nur von validierten vorgelagerten Eingaben ab. Historische Datensätze sind durch zeitpunktgenaue Zuordnung absichtlich von künftigen Parameteränderungen isoliert.
+Jede nachgelagerte Berechnung hängt nur von validierten vorgelagerten Eingaben ab. Historische Datensätze sind durch zeitpunktgenaues Matching absichtlich von künftigen Parameteränderungen isoliert.
 
 ---
 
-## Drei Fallen, die selbst erfahrene E-Commerce-Finanzteams stellen
+## Drei Fallen, die selbst erfahrene E-Commerce-Finanzteams erwischen
 
 ### Falle 1 — Versandkosten über jedes Produkt mitteln
 
 Eine Preisentscheidung wird nach Prüfung der durchschnittlichen Versandkosten pro SKU getroffen.
 
-Die Analyse nimmt an, dass Versand proportional mit der Produktmenge steigt.
+Die Analyse nimmt an, dass der Versand proportional mit der Produktmenge steigt.
 
-In der Praxis berechnen Logistikdienstleister pro Sendung, Gewichtsklasse, dimensionalem Gewicht, Zielort oder Paketkombination—nicht pro einzelner SKU.
+In der Praxis berechnen Logistikdienstleister pro Sendung, Gewichtsklasse, Volumengewicht, Zielort oder Paketkombination—nicht pro einzelner SKU.
 
-Infolgedessen können leichte Zubehörteile teuer zu versenden erscheinen, während gebündelte Premium-Produkte künstlich profitabel wirken.
+Infolgedessen können leichte Zubehörteile teuer im Versand erscheinen, während gebündelte Premium-Produkte künstlich profitabel wirken.
 
 | Falscher Ansatz | Richtiger Ansatz |
 |--------------------|------------------|
-| Versand gleichmäßig auf jede Position verteilt. | Versand mit tatsächlichen Logistikrechnungen verteilt, wann immer verfügbar. |
-| Ein durchschnittlicher Versandwert. | Gestufte Verteilung basierend auf Sendung, Bundle-Zusammensetzung, Gewicht und validierten Ausweichregeln. |
-| Produktmargen-Rankings werden unzuverlässig. | Produktprofitabilität spiegelt tatsächliche Fulfillment-Ökonomie wider. |
+| Versand gleichmäßig auf jede Position verteilt. | Versand verteilt mit tatsächlichen Logistikrechnungen, wann immer verfügbar. |
+| Ein durchschnittlicher Versandwert. | Gestufte Zuweisung basierend auf Sendung, Bundle-Zusammensetzung, Gewicht und validierten Ausweichregeln. |
+| Produktmargen-Rankings werden unzuverlässig. | Produktprofitabilität spiegelt die tatsächliche Fulfillment-Ökonomie wider. |
 
 **Entscheidungsergebnis**
 
@@ -240,12 +228,12 @@ Product A Margin      27%
 Bundle Margin         18%
 ```
 
-Die Preisstrategie ändert sich, weil Versand nicht länger die tatsächlichen Fulfillment-Kosten versteckt.
+Die Preisstrategie ändert sich, weil der Versand die wahren Fulfillment-Kosten nicht länger versteckt.
 
 <details>
 <summary>Formellogik</summary>
 
-Nutzt hierarchische Versandverteilung:
+Verwendet hierarchische Versandverteilung:
 
 ```
 Actual 3PL Invoice
@@ -257,12 +245,11 @@ Weight-Based Estimate
 Channel Average
 ```
 
-Vertrauenslabels werden gemäß der Verteilungsquelle zugewiesen.
+Vertrauenslabels werden gemäß der Zuweisungsquelle vergeben.
 
 </details>
 
 ---
-
 ### Falle 2 — Die Kosten von heute nutzen, um die Bestellungen von gestern zu messen
 
 Eine Einkaufsprüfung kommt zu dem Schluss, dass sich die Margen in den letzten sechs Monaten dramatisch verschlechtert haben.
@@ -277,7 +264,7 @@ In Wirklichkeit passen Lieferanten Preise an, Wechselkurse schwanken täglich, u
 |--------------------|------------------|
 | Alle historischen Bestellungen mit aktuellen COGS und FX-Kursen neu berechnen. | Jede Transaktion mit den Kosten und dem Wechselkurs abgleichen, die am ursprünglichen Bestelldatum gültig waren. |
 | Historische Berichte ändern sich bei jeder Beschaffungspreisänderung. | Historische Berichte bleiben über Monate und Jahre reproduzierbar und vergleichbar. |
-| Margenverschlechterung kann vollständig künstlich sein. | Margin-Trends spiegeln echte betriebliche Leistung wider. |
+| Margin-Verschlechterung kann vollständig künstlich sein. | Margin-Trends spiegeln echte betriebliche Leistung wider. |
 
 **Entscheidungsergebnis**
 
@@ -302,12 +289,12 @@ Supplier performance remained stable.
 Marketing spend increased instead.
 ```
 
-Die Management-Reaktion ändert sich von Lieferanten-Nachverhandlung zu Werbeoptimierung, weil historische Profitabilität bewahrt wird.
+Die Management-Reaktion ändert sich von Lieferanten-Nachverhandlung zu Werbeoptimierung, weil die historische Profitabilität bewahrt wird.
 
 <details>
 <summary>Formellogik</summary>
 
-Historische Werte werden mit gültigkeitsdatum-Bereichen abgerufen.
+Historische Werte werden mit Gültigkeitsdatum-Bereichen abgerufen.
 
 ```
 Order Date
@@ -328,11 +315,11 @@ Jede Lookup-Operation gleicht sowohl den Geschäftsschlüssel als auch das Gült
 
 ---
 
-### Falle 3 — Annehmen, dass Marktplatz-Auszahlung gleich Geschäftsgewinn ist
+### Falle 3 — Annehmen, dass die Marktplatz-Auszahlung gleich dem Geschäftsgewinn ist
 
 Das Finanzteam erhält eine Marktplatz-Auszahlung, die mit dem erwarteten Umsatz übereinzustimmen scheint.
 
-Die Auszahlung wird als Beweis behandelt, dass die Profitabilitätsberechnungen korrekt sind.
+Die Auszahlung wird als Beweis dafür behandelt, dass die Profitabilitätsberechnungen korrekt sind.
 
 Allerdings aggregieren Auszahlungen Abzüge aus mehreren betrieblichen Prozessen, einschließlich Zahlungsgebühren, Provisionen, Rückerstattungen, Versandanpassungen, Reserve-Einbehalten, Verpackungsgebühren und Zeitunterschieden.
 
@@ -340,9 +327,9 @@ Einzahlungen mit Verkäufen abzugleichen beweist keine Profitabilität.
 
 | Falscher Ansatz | Richtiger Ansatz |
 |--------------------|------------------|
-| Auszahlungsbetrag als finale Gewinnkennzahl behandeln. | Jede Kostenkomponente vor der Abstimmung rekonstruieren. |
+| Den Auszahlungsbetrag als finale Gewinnkennzahl behandeln. | Jede Kostenkomponente vor der Abstimmung rekonstruieren. |
 | Abweichungen nach Monatsende manuell untersuchen. | Bestellungen, Auszahlungen, Logistikrechnungen und berechneten Gewinn kontinuierlich abstimmen. |
-| Finanzfehler bleiben verborgen, bis die Buchhaltung schließt. | Ausnahmen werden auf individueller Bestellebene identifiziert. |
+| Finanzfehler bleiben verborgen, bis die Buchhaltung abschließt. | Ausnahmen werden auf der Ebene der einzelnen Bestellung identifiziert. |
 
 **Entscheidungsergebnis**
 
@@ -386,7 +373,7 @@ Financial Reconciliation
 Matched / Discrepancy
 ```
 
-Toleranzschwellenwerte werden zentral gepflegt, damit Abstimmungsregeln in der gesamten Arbeitsmappe konsistent bleiben.
+Toleranzschwellenwerte werden zentral gepflegt, damit die Abstimmungsregeln in der gesamten Arbeitsmappe konsistent bleiben.
 
 </details>
 
@@ -394,23 +381,23 @@ Toleranzschwellenwerte werden zentral gepflegt, damit Abstimmungsregeln in der g
 
 ## Beispielszenario
 
-Ein Multi-Channel-Händler verkauft ein Bundle aus einer Kaffeemaschine, zwei Zubehör-Kits und einer kostenlosen Filterpackung über Shopify in Deutschland.
+Ein Multi-Channel-Händler verkauft über Shopify in Deutschland ein Bundle, das aus einer Kaffeemaschine, zwei Zubehör-Kits und einer kostenlosen Filterpackung besteht.
 
-Der Bestellwert beträgt **249,00 $**. Der Versand wird von einem Drittanbieter-Logistikdienstleister erfüllt, Beschaffungskosten werden in USD geführt, das Reporting erfolgt in EUR, und der Kunde beantragt zwei Wochen später eine Teilerstattung.
+Der Bestellwert beträgt **$249.00**. Der Versand wird von einem Drittanbieter-Logistikdienstleister abgewickelt, die Beschaffungskosten werden in USD geführt, das Reporting erfolgt in EUR, und der Kunde bittet zwei Wochen später um eine Teilerstattung.
 
-Mit einer konventionellen Tabelle erscheint Profitabilität gradlinig. Umsatz wird um eine geschätzte Provision reduziert, Versand wird gleichmäßig auf jedes Produkt verteilt, und die neuesten Beschaffungskosten werden angewendet, weil es der einzige verfügbare Wert ist. Der resultierende Bericht zeigt eine gesunde Marge von etwa **24 %**, was das Merchandising-Team bestärkt, Werbung für ähnliche Bundles auszuweiten.
+Mit einer konventionellen Tabelle erscheint die Profitabilität gradlinig. Vom Umsatz wird eine geschätzte Provision abgezogen, der Versand wird gleichmäßig auf jedes Produkt verteilt, und die neuesten Beschaffungskosten werden angewendet, weil sie der einzige verfügbare Wert sind. Der resultierende Bericht zeigt eine gesunde Marge von etwa **24%**, was das Merchandising-Team ermutigt, die Werbung für ähnliche Bundles auszubauen.
 
-Die Berechnung ändert sich wesentlich nach Rekonstruktion der Transaktion mit dieser Arbeitsmappe.
+Die Berechnung ändert sich erheblich, nachdem die Transaktion mit dieser Arbeitsmappe rekonstruiert wurde.
 
-Die Engine ruft zuerst die Beschaffungskosten ab, die am ursprünglichen Bestelldatum gültig waren, statt den heutigen Lieferantenpreis. Historische Wechselkurse normalisieren jede Finanzkomponente in die Berichtswährung. Bundle-Zuordnung verteilt Beschaffungskosten auf die zugrunde liegenden physischen Produkte statt auf die virtuelle Bundle-SKU. Tatsächliche Logistikrechnungen überschreiben geschätzten Frachtkosten, während die Rückerstattung der ursprünglichen Bestellung zugeordnet wird, statt die Profitabilität in einer späteren Berichtsperiode zu reduzieren.
+Die Engine ruft zuerst die Beschaffungskosten ab, die am ursprünglichen Bestelldatum gültig waren, statt des heutigen Lieferantenpreises. Historische Wechselkurse normalisieren jede Finanzkomponente in die Berichtswährung. Das Bundle-Mapping verteilt die Beschaffungskosten auf die zugrunde liegenden physischen Produkte statt auf die virtuelle Bundle-SKU. Tatsächliche Logistikrechnungen überschreiben die geschätzte Fracht, während die Rückerstattung der ursprünglichen Bestellung zugeordnet wird, statt die Profitabilität in einer späteren Berichtsperiode zu mindern.
 
-Das Endergebnis zeigt eine Nettomarge näher bei **15 %** statt **24 %**.
+Das Endergebnis zeigt eine Nettomarge näher bei **15%** statt **24%**.
 
-Nichts an der Bestellung hat sich geändert.
+An der Bestellung hat sich nichts geändert.
 
 Nur die finanziellen Annahmen wurden historisch korrekt.
 
-Für betriebliche Entscheidungsfindung ist dieser Unterschied bedeutsam. Das Merchandising-Team vermeidet es, eine Werbekampagne zu skalieren, die nur deshalb profitabel erschien, weil Versandverteilung, historische Beschaffungskosten und Rückerstattungs-Zuordnung zu stark vereinfacht waren.
+Für die betriebliche Entscheidungsfindung ist dieser Unterschied bedeutsam. Das Merchandising-Team vermeidet es, eine Werbekampagne zu skalieren, die nur deshalb profitabel erschien, weil Versandverteilung, historische Beschaffungskosten und Rückerstattungs-Zuordnung übervereinfacht waren.
 
 ---
 
@@ -428,7 +415,7 @@ Für betriebliche Entscheidungsfindung ist dieser Unterschied bedeutsam. Das Mer
 | `FILTER()` | Extrahiert bestellungsspezifische Transaktionsdatensätze dynamisch. |
 | `SUMIFS()` | Aggregiert Umsatz, Rückerstattungen und Logistikkosten nach Bestellung. |
 
-Die Berechnungs-Engine kombiniert diese Funktionen, um ein vollständig dynamisches Gewinnmodell auf Bestellniveau zu erzeugen, ohne kopierte Formeln zu erfordern.
+Die Berechnungs-Engine kombiniert diese Funktionen zu einem vollständig dynamischen Gewinnmodell auf Bestellniveau, ohne kopierte Formeln zu erfordern.
 
 </details>
 
@@ -437,11 +424,11 @@ Die Berechnungs-Engine kombiniert diese Funktionen, um ein vollständig dynamisc
 
 Die Arbeitsmappe implementiert zeitpunktgenaue Buchhaltung, indem jede Transaktion abgeglichen wird mit:
 
-- Historischen Beschaffungskosten
-- Historischen Wechselkursen
-- Marktplatz-Gebührenplänen
+- Historische Beschaffungskosten
+- Historische Wechselkurse
+- Marktplatz-Gebührenpläne
 - Versandtarif-Versionen
-- Gültigkeitsdatum-Bereichen
+- Gültigkeitsdatum-Bereiche
 
 Dies verhindert, dass künftige Parameteränderungen die historische Profitabilität verändern.
 
@@ -487,7 +474,7 @@ Die Abstimmungs-Engine vergleicht:
 - Rückerstattungstransaktionen
 - Zahlungsgebühren
 
-Ausgaben umfassen Abstimmungsstatus, Gelddifferenzen und konfigurierbare Ausnahmeschwellenwerte.
+Ausgaben umfassen den Abstimmungsstatus, Geldbetragsdifferenzen und konfigurierbare Ausnahmeschwellenwerte.
 
 </details>
 
@@ -498,28 +485,50 @@ Ausgaben umfassen Abstimmungsstatus, Gelddifferenzen und konfigurierbare Ausnahm
 | Feld | Validierungsregel | Fehlerverhalten |
 |------|-----------------|----------------|
 | Order ID | Muss eindeutig und nicht leer sein. | Doppelte Bestellungen werden zur Prüfung markiert. |
-| Order Date | Muss innerhalb der historischen Kursabdeckung liegen. | Fehlende historische Kurse lösen Lookup-Ausnahmen aus. |
-| Currency | Muss in der Wechselkurstabelle existieren. | Währungsnormalisierung wird verhindert, bis sie aufgelöst ist. |
+| Order Date | Muss innerhalb der Abdeckung historischer Kurse liegen. | Fehlende historische Kurse lösen Lookup-Ausnahmen aus. |
+| Currency | Muss in der Wechselkurstabelle existieren. | Die Währungsnormalisierung wird verhindert, bis das Problem gelöst ist. |
 | SKU | Muss in den Produkt- oder Bundle-Zuordnungstabellen existieren. | Beschaffungskosten können nicht zugeordnet werden. |
 | Historical Cost | Gültigkeitsdatum-Bereiche dürfen sich für dieselbe SKU nicht überlappen. | Widersprüchliche historische Werte werden hervorgehoben. |
-| Shipping Invoice | Mehrere Rechnungen müssen sich auf dieselbe Sendung abstimmen. | Versand-Vertrauen wird herabgestuft. |
-| Refund Reference | Ursprüngliche Bestellung muss existieren. | Rückerstattung kann nicht automatisch zugeordnet werden. |
-| Marketplace Fee | Historischer Gebührenplan erforderlich. | Standard-Ausweichkurs wird verwendet, wenn zulässig. |
-| Reconciliation Difference | Muss innerhalb der konfigurierten Toleranz bleiben. | Status ändert sich zu **DISCREPANCY**. |
+| Shipping Invoice | Mehrere Rechnungen müssen sich auf dieselbe Sendung abstimmen. | Das Versand-Vertrauen wird herabgestuft. |
+| Refund Reference | Die ursprüngliche Bestellung muss existieren. | Die Rückerstattung kann nicht automatisch zugeordnet werden. |
+| Marketplace Fee | Historischer Gebührenplan erforderlich. | Der Standard-Ausweichkurs wird verwendet, wenn zulässig. |
+| Reconciliation Difference | Muss innerhalb der konfigurierten Toleranz bleiben. | Der Status ändert sich zu **DISCREPANCY**. |
 | Dashboard KPIs | Hängen nur von validierten Berechnungsausgaben ab. | Ungültige vorgelagerte Daten propagieren sichtbare Warnindikatoren. |
 
 </details>
 
 ---
 
-## Weitere Werkzeuge dieser Reihe
+## Die Geschäftslogik & Methodik
 
-- **Toolkit für Fertigungsarbeitskosten & Kapazitätsplanung** — Analysieren Sie Personalauslastung, Produktionskapazität und Arbeitkosteneffizienz.
-- **Toolkit für bedarfsadaptive Bestandsplanung** — Planen Sie Nachschub mit Vorlaufzeit, Bedarfsvariabilität und Einkaufsszenarien.
-- **Toolkit für Mietverwaltung** — Überwachen Sie Belegung, Leerstand, Wartung und Vermietungsleistung aus einer einzigen Arbeitsmappe.
+Die meisten E-Commerce-Unternehmen verfallen irgendwann in die **„Wachstumsillusion"**—der Umsatz sieht auf Shopify- oder Amazon-Seller-Central-Dashboards gesund aus, aber der Nettogewinn am Ende blutet durch unsichtbare betriebliche Reibung aus. Das passiert, weil die Standardberichterstattung auf Näherungen nach Bargeld-Basis statt auf exakter **Unit-Ökonomie auf Bestellniveau** beruht.
+
+Dieses E-Commerce-Gewinn- & Abstimmungs-Toolkit ersetzt fragmentierte Dashboard-Kennzahlen durch einen deterministischen Finanzmodellierungsrahmen. Hier ist die Methodik, mit der komplexe Omnichannel-Buchhaltungsprobleme gelöst werden:
+
+### 1. Deterministisches Matching auf Bestellniveau (Lösung der Timing-Abweichung)
+*   **Das Geschäftsproblem:** Rückerstattungen, 3PL-Logistikrechnungen und Marktplatz-Auszahlungen (von Stripe, PayPal oder Amazon) werden oft erst Wochen oder Monate nach dem ursprünglichen Verkauf abgewickelt. Der Einsatz standardmäßiger Cashflow-Tabellen verzerrt Ihre monatliche Margenanalyse.
+*   **Unsere Methodik:** Statt periodenbasierter Cashflow-Verfolgung verankert dieses Toolkit jedes Finanzereignis strikt an der *ursprünglichen Bestell-ID*. Dieses **accrual-artige finanzielle Matching** stellt sicher, dass die verzögerten Rückerstattungen oder rückwirkenden Lieferantenrabatte des Vormonats die historische Leistung exakt korrigieren, statt die Nettogewinnkennzahlen des laufenden Monats künstlich zu zerstören.
+
+### 2. Waterfall-Kostenzurechnung (Versteckte E-Commerce-Gebühren aufdecken)
+*   **Das Geschäftsproblem:** Die Bruttomargen im E-Commerce werden häufig falsch berechnet, weil Zahlungs-Gateway-Gebühren, MwSt./Verkaufssteuer-Abzüge und Cross-Currency-Konversionsspreads in Standard-CMS-Berichten entweder vermischt oder vollständig ignoriert werden.
+*   **Unsere Methodik:** Wir implementieren ein strenges **Waterfall-Margin-Zuordnungsmodell**. Vom Bruttoumsatz wird systematisch Schritt für Schritt abgetragen, um die tatsächlich verbleibende Barmittel offenzulegen: 
+    *Bruttoumsatz → minus MwSt./Steuern → minus Zahlungsabwicklungsgebühren → minus Marktplatz-Provisionen → minus COGS zum exakten Datum (Cost of Goods Sold) → minus tatsächliche Fracht = **Echte Nettomarge**.*
+
+### 3. Hierarchische Frachtverteilung (Korrektur der Multi-SKU- & Bundle-Kosten)
+*   **Das Geschäftsproblem:** Pauschale Versandkostenschätzungen führen dazu, dass margenstarke „Held"-Produkte schwere, margenschwache SKUs subventionieren. Dieser blinde Fleck führt zu verheerenden Bestandseinkäufen und falsch ausgerichteten ROAS-Zielen (Return on Ad Spend).
+*   **Unsere Methodik:** Das Toolkit nutzt eine **hierarchische 3PL-Frachtverteilung**. Die Engine priorisiert zuerst die exakte Kostenzuordnung aus tatsächlichen Logistikrechnungen. Wenn die offizielle Spediteursabrechnung aussteht, greift die Logik auf eine validierte algorithmische Schätzung zurück (basierend auf Volumengewicht oder benutzerdefinierter Geschäftslogik), sodass Aktionsbundles und Multi-SKU-Bestellungen nie verzerrte Versandkosten zugewiesen bekommen.
+
+---
+
+
+## Weitere Tools dieser Serie
+
+- **Toolkit für Fertigungsarbeitskosten & Kapazitätsplanung** — Analysieren Sie Personaleinsatz, Produktionskapazität und Arbeitkosteneffizienz.
+- **Toolkit für bedarfsadaptive Bestandsplanung** — Planen Sie die Nachbestellung mit Vorlaufzeit, Nachfrageschwankung und Einkaufsszenarien.
+- **Toolkit für Mietimmobilien-Betrieb** — Überwachen Sie Belegung, Leerstand, Wartung und Mietleistung aus einer einzigen Arbeitsmappe.
 - **Toolkit für Projektportfolio-Planung** — Verfolgen Sie Budgets, Zeitpläne, Prioritäten und Lieferfortschritt über mehrere Initiativen hinweg.
 
-Weitere betriebliche Entscheidungsunterstützungswerkzeuge sind über unsere [Webseite](https://www.theseusworkshop.com/) und das GitHub-Profil verfügbar.
+Weitere betriebliche Entscheidungsunterstützungstools finden Sie auf unserer [Webseite](https://www.theseusworkshop.com/) und im GitHub-Profil.
 
 ---
 
@@ -527,4 +536,4 @@ Weitere betriebliche Entscheidungsunterstützungswerkzeuge sind über unsere [We
 
 Lizenziert unter der **Apache License 2.0**.
 
-Dieses Repository darf gemäß den Bedingungen der Apache License 2.0 verwendet, verändert und verbreitet werden. Den vollständigen Lizenztext finden Sie in der `LICENSE`-Datei.
+Dieses Repository darf gemäß den Bedingungen der Apache License 2.0 verwendet, verändert und verbreitet werden. Den vollständigen Lizenztext finden Sie in der Datei `LICENSE`.
