@@ -14,7 +14,7 @@
 
 Try the browser version for free. If you need the permanent Excel version for secure, local month-end closing, you can buy it with a 30-day, no-questions-asked money-back guarantee.
 
-> 🌐 **Live Interactive Demo** → [*Try the Free E-commerce Profit Margin Calculator (Browser-based HTML)*](https://hyvoid.github.io/E-commerce-Profit-Intelligence-Reconciliation-Excel-Toolkit/)
+> 🌐 **Live Interactive Demo** → [*Try the Free E-commerce Profit Margin Calculator (Browser-based HTML)*](https://hyvoid.github.io/ecommerce-profit-calculator-excel/)
 >
 > 📥 **Download Full Template** → [*Download the Reusable E-commerce Profit Reconciliation Excel Toolkit*](https://www.theseusworkshop.com/l/xsbprl?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=ecommerce-profit-intelligence)
 
