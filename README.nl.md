@@ -1,121 +1,109 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
-# Excel-toolkit voor e-commerce winstintelligentie & reconciliatie
+
+# E-commerce winst- & reconciliatie Excel-toolkit: Omnichannel-margecalculator
+<img width="1379" height="790" alt="image" src="https://github.com/user-attachments/assets/4e150c8b-7711-4d92-83fb-9bafae27f171" />
+
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-success)
 ![Tool](https://img.shields.io/badge/Tool-Decision%20Support-orange)
 
-**Analyseer de werkelijke winst op orderniveau over meerdere verkoopkanalen, valuta, verzendmodellen en uitbetalingssystemen—direct in de browser of Excel, zonder installatie, zonder registratie en zonder handmatige berekeningen.**
+<p><strong>De Excel-toolkit voor e-commerce winstintelligentie & reconciliatie</strong> is een definitief financieel modelleerwerkblad dat de ware <strong>winstgevendheid op orderniveau</strong> en de <strong>SKU-marges</strong> analyseert over meerdere verkoopkanalen (Shopify, Amazon, bol.com), grensoverschrijdende valuta's, verzendmodellen en betaalgatewaysystemen. Elimineer boekhoudkundige afwijkingen met deze kant-en-klare <strong>financiële e-commerce reconciliatiesjabloon</strong>—voer hem direct uit in uw browser of Excel, zonder SaaS-installatie, zonder maandelijkse abonnementen en zonder handmatige formule-invoer.</p>
 
 **Geen registratie. Geen installatie. Gratis in uw browser.**
 
-Probeer de browserversie gratis. Als u de Excel-versie nodig heeft, kunt u deze kopen met een garantie van 30 dagen geld terug zonder vragen.
+Probeer de browserversie gratis. Als u de permanente Excel-versie nodig heeft voor een veilige, lokale maandafsluiting, kunt u deze kopen met een 30 dagen geld-terug-garantie zonder vragen.
+
+> 🌐 **Live interactieve demo** → [*Probeer de gratis e-commerce winstmargecalculator (HTML in de browser)*](https://hyvoid.github.io/ecommerce-profit-calculator-excel/)
 >
-> 🌐 **Openen in browser** → [*HTML-livedemo*](https://hyvoid.github.io/E-commerce-Profit-Intelligence-Reconciliation-Excel-Toolkit/)
->
-> 📥 **Download Excel**  
-> [*aankoop van Excel-sjabloon*](https://www.theseusworkshop.com/l/xsbprl?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=ecommerce-profit-intelligence)
+> 📥 **Volledige sjabloon downloaden** → [*Download de herbruikbare e-commerce winst- & reconciliatie Excel-toolkit*](https://www.theseusworkshop.com/l/xsbprl?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=ecommerce-profit-intelligence)
 
 ---
 
-## Waarmee het u helpt volgen
+## Financiële pijnpunten in e-commerce & geautomatiseerde oplossingen
 
-- De werkelijke winst op orderniveau na verzending, betaalvergoedingen, marktplaatscommissies, btw, terugbetalingen en productkosten.
-- Historische winstgevendheid die accuraat blijft, zelfs wanneer leverancierskosten, wisselkoersen of platformkosten later veranderen.
-- Vertrouwen in verzendkosten door daadwerkelijke logistieke facturen te onderscheiden van progressief geschatte verzendscenario's.
-- Financiële reconciliatie over orders, uitbetalingen, logistieke facturen en bankgegevens voordat afwijkingen boekhoudproblemen worden.
-- Margetrends per marktplaats, land, valuta, SKU of fulfillmentstrategie met één consistent financieel model.
-- Orders die oppervlakkig winstgevend lijken maar in werkelijkheid geld verliezen door verborgen operationele kosten.
+Stop met het gokken van uw brutomarges. Deze toolkit brengt uw meest complexe omnichannel boekhoudkundige uitdagingen direct in kaart met geautomatiseerde financiële oplossingen.
 
----
-
-## Snelstartworkflow
-
-1. **Bedrijfsparameters één keer configureren**
-
-   Open de bladen **Parameters** en definieer de bedrijfsaannames die zelden veranderen, waaronder basisvaluta, standaardbtw-tarief, reconcilatietolerantie, standaard betaalvergoedingen en historische tarieftabellen. Deze instellingen worden de enkele bron van waarheid voor elke volgende berekening zonder herhaalde aanpassingen te vereisten.
-
-2. **Bestaande operationele gegevens importeren**
-
-   Exporteer orders, uitbetalingen, logistieke facturen, terugbetalingen en advertentie-uitgaven uit Shopify, Amazon, bol.com, boekhoudsoftware of een bestaand spreadsheet. Plak elke dataset in het daarvoor bestemde invoerblad zonder formules opnieuw op te bouwen of het werkboek te herstructureren.
-
-3. **Winstgevendheid direct beoordelen**
-
-   Schakel over naar de berekeningsengine of het uitvoerende dashboard. Winst op orderniveau, historische kostenmatching, verzendtoewijzing, reconciliatiestatus en management-KPI's worden automatisch bijgewerkt, waardoor operationele zichtbaarheid binnen minuten in plaats van uren wordt geboden.
-
-4. **Periodiek vernieuwen**
-
-   Herhaal het importproces wekelijks, maandelijks of wanneer nieuwe operationele gegevens beschikbaar komen. Historische berekeningen blijven ongewijzigd terwijl nieuwe transacties automatisch deelnemen aan hetzelfde analytische kader.
-
-**Stel een paar sleutelparameters in. Voeg bestaande gegevens toe. Krijg de analyse. Vernieuw wanneer nieuwe bedrijfsgegevens binnenkomen.**
+| Kernpijnpunt in e-commerce financiën | Hoe deze winstanalyse-toolkit het oplost |
+| :--- | :--- |
+| **Verborgen operationele kosten & onnauwkeurige SKU-marges** | Berekent de werkelijke **nettowinst op orderniveau** na aftrek van werkelijke 3PL-verzendkosten, Stripe-/PayPal-betaalgatewaykosten, marktplaatscommissies, btw, terugbetalingen en werkelijke COGS. |
+| **Vervormde gegevens door veranderende leverancierskosten & FX-koersen** | Vergrendelt de **historische winstgevendheid** met tijdgebonden wisselkoersen en datumspecifieke inkoopkosten. Maandrapporten uit het verleden blijven perfect accuraat, zelfs wanneer uw leverancier vandaag de prijzen verhoogt. |
+| **Giswerk bij de toewijzing van verzendkosten voor bundels** | Vervangt forfaitaire schattingen door **werkelijke reconciliatie van logistieke facturen** en verdeelt echte vrachtkosten slim over multi-SKU-zendingen op basis van volumegewicht of aangepaste logica. |
+| **Marktplaatsuitbetalingen komen niet overeen met bankstortingen** | Automatiseert de **financiële reconciliatie** tussen afzonderlijke klantorders, geaggregeerde marktplaatsuitbetalingen, logistieke facturatie en werkelijke bankgegevens vóór de maandafsluiting. |
+| **Winstverlies door onzichtbare operationele inefficiënties** | Visualiseert **margetrends** per marktplatform, bestemmingsland, valuta, SKU of 3PL-fulfillmentstrategie via één uniform, voor de directie opgemaakt dashboard. |
 
 ---
 
-## Waarom ik dit heb gebouwd
+## Hoe u uw e-commerce winst berekent (snelstart-tutorial)
 
-Veel e-commercebedrijven geloven dat ze hun winst al kennen omdat elk platform omzetrapporten, uitbetalingsoverzichten, advertentiedashboards en boekhoudkexports biedt.
+Bereik volledige financiële zichtbaarheid in vier begeleide stappen zonder ook maar één Excel-formule te schrijven.
 
-Het probleem is dat deze rapporten zelden met elkaar overeenkomen.
+1. **Configureer uw financiële basisparameters (eenmalige instelling)**  
+   Open het **Parameters-dashboard** en definieer uw operationele aannames: basisrapportagevaluta, standaard btw-tarieven, tolerantiedrempels voor boekhoudkundige reconciliatie, kostenstructuren van betaalgateways en historische FX-koerstabellen. Dit creëert een enkele bron van waarheid voor uw hele e-commerce financiële model.
 
-Verzending kan per zending in rekening worden gebracht in plaats van per product. Leverancierskosten veranderen gedurende het jaar. Wisselkoersen fluctueren dagelijks. Betaalproviders houden verschillende vergoedingen in. Terugbetalingen gebeuren weken na de oorspronkelijke verkoop. Marktplaatscommissies hangen af van categorie en land. Wanneer elk systeem slechts één stuk van het bedrijf meet, wordt winstgevendheid een benadering in plaats van een controleerbaar financieel resultaat.
+2. **Importeer omnichannel verkoop- & logistiekgegevens (gegevensinname)**  
+   Exporteer ruwe CSV-rapporten (orders, afrekenuitbetalingen, 3PL-logistiekfacturen, terugbetalingen, advertentie-uitgaven) rechtstreeks uit Shopify, Amazon Seller Central, bol.com of uw boekhoudsoftware. Plak ze in de aangewezen **invoermodules** zonder formules opnieuw op te bouwen of gegevens op te schonen.
 
-Ik heb deze toolkit gebouwd nadat ik herhaaldelijk bedrijven zag bedrijfsbeslissingen nemen met cijfers die intern consistent waren maar financieel onjuist.
+3. **Start de geautomatiseerde winstgevendheids- & reconciliatie-engine**  
+   Schakel over naar de **berekeningsengine** of het **Executive Dashboard**. Kijk hoe de sjabloon automatisch historische COGS matcht, verzendkosten toewijst op SKU-niveau, de reconciliatiestatus controleert en de management-KPI's (Gross Margin, Net Profit, ROAS) in realtime bijwerkt.
 
-Bijvoorbeeld, een bundel met één hoofdproduct en twee accessoires lijkt **28 $ winst** te genereren als verzending gelijkmatig over producten wordt verdeeld en huidige leverancierskosten worden toegepast op historische orders.
+4. **Vernieuw voor doorlopende maandafsluiting**  
+   Herhaal het gegevensimportproces wekelijks of maandelijks. Oude gegevens blijven financieel vergrendeld en controleerbaar, terwijl nieuwe transacties direct worden verwerkt via uw gestandaardiseerde kader.
 
-Na reconstructie van dezelfde transactie met historische inkoopkosten, toewijzing van vracht op zendingsniveau, daadwerkelijke betaalingsaftrekken en toerekening van terugbetalingen, kan de werkelijke winst slechts **8 $** bedragen.
-
-Niets aan de order is veranderd.
-
-Alleen het analytische model is veranderd.
-
-Dat verschil beïnvloedt direct prijsbeslissingen, advertentiebudgetten, leveranciersonderhandelingen en voorraadaankopen.
-
-In plaats van nog een rapportagedashboard te creëren, verpakt dit werkboek een herbruikbaar financieel redeneerkader in een operationele Excel-toolkit. Het doel is niet om meer rapporten te produceren—het is om bedrijfsbeslissingen te nemen met cijfers die weerspiegelen hoe geld daadwerkelijk door het bedrijf is gestroomd.
+🚀 **Klaar om van het schatten van marges over te stappen naar ze exact te kennen?**  
+*Bent u klaar met het testen van uw eerste batch orders in de browser? [Download de volledige herbruikbare e-commerce Excel-sjabloon](https://www.theseusworkshop.com/l/xsbprl) om uw weekelijkse financiële rapportage permanent te automatiseren, uw gegevens lokaal op te slaan en een herhaalbare maandafsluitingslus voor reconciliatie op te bouwen.*
 
 ---
 
-## Veelvoorkomende e-commerce winstgevendheidsproblemen die dit oplost
+## De bedrijfslogica & methodologie
 
-| Probleem | Zonder deze toolkit | Met deze toolkit |
-|----------|-------------------|----------------|
-| Verzendkosten worden gelijkmatig over elke SKU verdeeld | Producten met hoge marge subsidiëren producten met lage marge, wat misleidende winstgevendheidsrankings creëert. | Verzending volgt een gestructureerde toewijzingshiërarchie die daadwerkelijke logistieke facturen prioriteert boven gevalideerde schattingsmethoden. |
-| Historische winsten veranderen wanneer leverancierskosten worden bijgewerkt | Vorige maanden worden onvergelijkbaar omdat oude orders de kosten van vandaag overerven. | Elke order wordt geëvalueerd met de kosten, wisselkoers en het tariefschema die geldig waren op de transactiedatum. |
-| Marktplaatsuitbetalingen stemmen nooit overeen met interne rapporten | Financiële teams onderzoeken afwijkingen handmatig over verschillende onafhankelijke systemen. | Orders, uitbetalingen, logistieke facturen en reconciliatieresultaten zijn verbonden via één consistent financieel model. |
-| Bundelproducten lijken ongebruikelijk winstgevend | Gratis geschenken, accessoires en gebundelde componenten verbergen hun werkelijke inkoopkosten. | Bundelregels wijzen inkoopkosten toe aan de volledige order voordat winstgevendheid wordt berekend. |
-| Meerdere valuta's verstoren managementrapportage | Omzet, logistiek en inkoop worden vergeleken met inconsistente wisselkoersen. | Elk financieel component wordt genormaliseerd via historische tijdgebonden wisselkoersen naar één rapportagevaluta. |
-| Terugbetalingen verstoren de prestaties van de huidige periode | Terugbetalingen verminderen winst alleen wanneer ze plaatsvinden in plaats van de oorspronkelijke verkoop te corrigeren. | Terugbetalingen worden toegerekend aan de oorspronkelijke order, waardoor nauwkeurige historische winstgevendheid en trendanalyse behouden blijven. |
+Deze toolkit werkt op basis van een fundamentele omslag van „cash-basis illusies" naar **„accrual-achtige unit-economie per order"**.
 
----
+Het bedrijfsprobleem dat het oplost is de **groeïllusie**: wanneer de omzet op een Shopify-dashboard gezond lijkt, maar de nettowinst onderaan bloedt door onzichtbare operationele wrijving (hoge retourpercentages, verborgen betaalgatewaytoeslagen, verkeerd toegewezen vrachtkosten).
 
-## Voor wie dit is
-
-Deze toolkit is ontworpen voor professionals die betrouwbare winstgevendheidsanalyse nodig hebben zonder een groot ERP- of business intelligence-platform te implementeren.
-
-Typische gebruikers omvatten:
-
-- E-commerceoprichters die meerdere verkoopkanalen beheren.
-- Financiële managers verantwoordelijk voor operationele winstgevendheid.
-- Marktplaatsoperatoren die via Shopify, Amazon, bol.com of vergelijkbare platforms verkopen.
-- Bureau's die meerdere onlineshops ondersteunen.
-- Fractional CFO's die reproduceerbare financiële reviewprocessen opbouwen.
-- Excel-professionals die een controleerbaar analytisch kader nodig hebben in plaats van nog een dashboard.
-
-Deze toolkit is **niet** bedoeld om boekhoudsoftware, ERP-platforms, magazijnbeheersystemen of ondernemingsfinanciële consolidatieoplossingen te vervangen.
-
-Geen spreadsheet-expertise vereist. Open de browserversie of het Excel-werkboek, importeer operationele gegevens en begin direct met het analyseren van winstgevendheid.
+**Opgenomen kernmethodologieën:**
+*   **Waterfall-kostentoewijzing:** Van de omzet worden systematisch afgetrokken: btw/omzetbelasting → betaalverwerkingskosten → marktplaatscommissies → COGS op exacte datum → werkelijk vracht = echte nettomarge.
+*   **Deterministische ordermatching:** In tegenstelling tot eenvoudige kasstroomschema's verankert dit model elke financiële gebeurtenis (uitgestelde uitbetalingen, late terugbetalingen, retroactieve leverancierskortingen) strikt aan de *oorspronkelijke order-ID*. Dit voorkomt periodeverschuivende vertekeningen waarbij de terugbetalingen van vorige maand de winstgevendheidscijfers van deze maand vernietigen.
+*   **Hiërarchische vrachttoewijzing:** Prioriteert werkelijke logistiekfacturen voor verzendkosten; valt alleen terug op een gevalideerde algoritmische schatting wanneer de officiële facturatie in behandeling is.
 
 ---
 
-## Over
+## Oplossing van veelvoorkomende e-commerce boekhoud- & reconciliatieproblemen
 
-Ik bouw lichtgewicht Excel-gebaseerde beslissingsondersteuningstools voor operationele problemen die moeilijk worden zodra te veel bewegende delen tegelijk interacteren.
+| Operationele boekhoudkundige uitdaging | Zonder financiële reconciliatie | Met deze winstintelligentie-toolkit |
+| :--- | :--- | :--- |
+| **Verkeerde toewijzing van forfaitaire verzendkosten** | Producten met hoge marge subsidiëren zware producten met lage marge, wat misleidende winstgevendheidsranglijsten en slechte voorraadbeslissingen creëert. | Verzending volgt een **gestructureerde toewijzingshiërarchie**, die werkelijke logistiekfacturen prioriteert voordat wordt teruggevallen op gevalideerde volumegewichts-/gewichtsschattingsmethoden. |
+| **Dynamische COGS (Cost of Goods Sold)** | De financiën van eerdere maanden breken omdat oude orders dynamisch de vandaag bijgewerkte leveranciersprijzen overerven. | Elke order wordt berekend met de **exacte COGS, FX-koers en het kostenschema** die geldig waren op de specifieke transactiedatum. |
+| **Uitbetalingsafwijkingen & ontbrekende gelden** | Financiële teams besteden uren aan het handmatig onderzoeken van afwijkingen tussen Shopify, Amazon, Stripe en bankafschriften. | Orders, platformuitbetalingen, 3PL-facturen en reconciliatieresultaten zijn onlosmakelijk verbonden via één **controleerbaar financieel model**. |
+| **Margetracking voor bundels & gratis cadeaus** | Gratis cadeaus, promotieaccessoires en gebundelde componenten verbergen hun werkelijke inkoopkosten volledig. | Geavanceerde **bundelregels** verdelen de inkoopkosten nauwkeurig terug naar de volledige moederorder voordat de definitieve winstgevendheid wordt berekend. |
+| **Grensoverschrijdend multi-valutachaos** | Omzet, logistiek en inkoop worden vergeleken met inconsistente, fluctuerende wisselkoersen over verschillende data. | Elke financiële component wordt genormaliseerd via **historische tijdgebonden wisselkoersen** naar uw enige basisrapportagevaluta. |
+| **Terugbetalingen verstoren de ROI van de huidige periode** | Terugbetalingen verlagen de winst van vandaag kunstmatig, in plaats van de cijfers van de oorspronkelijke verkoopperiode te corrigeren. | Terugbetalingen worden strikt **teruggerekend naar de oorspronkelijke order-ID**, wat zeer nauwkeurige historische winstgevendheid en marketingtrendanalyse behoudt. |
 
-In plaats van te vragen hoe elke taak te automatiseren, begin ik meestal met een andere vraag:
+---
 
-> **"Welke informatie moet op één plek bestaan zodat de volgende bedrijfsbeslissing met vertrouwen kan worden genomen?"**
+## Wie heeft deze e-commerce winstmargetracker nodig? (Gebruiksgevallen & functies)
 
-Deze toolkit is één voorbeeld van die filosofie. In plaats van bestaande bedrijfssystemen te vervangen, brengt het de financiële informatie samen die al bestaat en organiseert het in een reproduceerbaar analytisch kader voor prijsstelling, inkoop, operationele reviews en winstgevendheidsbeslissingen.
+Deze toolkit is ontworpen voor datagedreven professionals die winstgevendheidsanalyse op enterprise-niveau nodig hebben zonder de zescijferige kosten of 6 maanden implementatietijd van een groot ERP- of BI-platform (Business Intelligence).
+
+*   **E-commerce oprichters & merkbezitters:** Hebben een *omnichannel winstdashboard* nodig om meerdere verkoopkanalen agressief te schalen zonder per ongeluk te veel uit te geven aan advertenties op basis van valse brutomarge-aannames.
+*   **Fractional CFO's & financiële controllers:** Vragen een betrouwbare *financiële reconciliatie Excel-sjabloon* om tijdens de maandafsluiting de chaotische kloof te overbruggen tussen rommelige Shopify-/Amazon-ruwe exports en formele boekhoudsoftware (Xero/QuickBooks).
+*   **Marktplaats operationele managers:** Zoeken een precieze *winstgevendheidscalculator op orderniveau* om de werkelijke ROI van promotiebundels, flashsales en grensoverschrijdende 3PL-verzendstrategieën te beoordelen.
+*   **Performance marketingbureaus:** Hebben een heldere *ROAS- en winstattributietool* nodig om aan hun klanten de werkelijke nettowinst uit advertentie-uitgaven aan te tonen, rekening houdend met retouren en COGS.
+*   **Geavanceerde Excel-professionals:** Die een transparant, controleerbaar analysekader nodig hebben waarin de logica zichtbaar is, in plaats van nog een SaaS-"black box"-dashboard.
+
+*(Let op: Deze toolkit is een analytische beslissingsondersteuningsengine. Hij is **niet** bedoeld om officiële boekhoudsoftware met dubbele boekhouding, magazijnbeheersystemen (WMS) of platforms voor wettelijke belastingnaleving te vervangen.)*
+
+---
+
+## Over de maker
+
+Ik bouw lichtgewicht, krachtige Excel-gebaseerde beslissingsondersteuningstools voor operationele knelpunten die onbeheerbaar worden zodra te veel bewegende delen (platforms, valuta's, logistiek) tegelijk interageren.
+
+In plaats van te vragen hoe je nog een SaaS-abonnement koopt om elke taak te automatiseren, begin ik meestal met een andere vraag:
+
+> **„Welke specifieke financiële gegevens moeten op één enkele, controleerbare plek bestaan zodat de volgende strategische bedrijfsbeslissing met absolute zekerheid kan worden genomen?"**
+
+Deze toolkit belichaamt die filosofie. In plaats van uw bestaande bedrijfssystemen te vervangen, neemt het de verspreide financiële gegevens op die er al zijn en orkestreert ze in een herhaalbaar analysekader voor prijsoptimalisatie, voorraadaankoop, operationele evaluaties en definitieve winstgevendheidsbeslissingen.
 
 ---
 
@@ -126,7 +114,7 @@ Deze toolkit is één voorbeeld van die filosofie. In plaats van bestaande bedri
 
 ## Werkboekarchitectuur
 
-Het werkboek volgt een gelaagde architectuur die ruwe operationele gegevens scheidt van financiële regels, berekeningslogica, reconciliatie en uitvoerend rapportage. Deze scheiding minimaliseert onderhoud en zorgt ervoor dat historische berekeningen reproduceerbaar blijven.
+Het werkboek volgt een gelaagde architectuur die ruwe operationele gegevens scheidt van financiële regels, berekeningslogica, reconciliatie en rapportage voor de directie. Deze scheiding minimaliseert onderhoud en zorgt ervoor dat historische berekeningen reproduceerbaar blijven.
 
 ```text
 Raw Data
@@ -214,13 +202,13 @@ Een prijsbeslissing wordt genomen na beoordeling van de gemiddelde verzendkosten
 
 De analyse gaat ervan uit dat verzending evenredig stijgt met de producthoeveelheid.
 
-In de praktijk rekenen logistieke providers per zending, gewichtsklasse, dimensionaal gewicht, bestemming of pakketcombinatie—niet per individuele SKU.
+In de praktijk rekenen logistieke providers per zending, gewichtsklasse, volumegewicht, bestemming of pakketcombinatie—niet per individuele SKU.
 
 Als gevolg daarvan kunnen lichte accessoires duur lijken om te verzenden terwijl gebundelde premiumproducten kunstmatig winstgevend lijken.
 
 | Onjuiste benadering | Juiste benadering |
 |--------------------|------------------|
-| Verzending gelijkmatig verdeeld over elk regelitem. | Verzending toegewezen met daadwerkelijke logistieke facturen wanneer beschikbaar. |
+| Verzending gelijkmatig verdeeld over elk regelitem. | Verzending toegewezen met daadwerkelijke logistiekfacturen wanneer beschikbaar. |
 | Eén gemiddelde verzendwaarde. | Getrapte toewijzing gebaseerd op zending, bundelsamenstelling, gewicht en gevalideerde terugvalregels. |
 | Productmarge-rankings worden onbetrouwbaar. | Productwinstgevendheid weerspiegelt de werkelijke fulfillment-economie. |
 
@@ -262,7 +250,6 @@ Betrouwbaarheidslabels worden toegekend volgens de toewijzingsbron.
 </details>
 
 ---
-
 ### Valkuil 2 — De kosten van vandaag gebruiken om de orders van gisteren te meten
 
 Een inkoopbeoordeling concludeert dat de marges de afgelopen zes maanden dramatisch zijn verslechterd.
@@ -277,7 +264,7 @@ In werkelijkheid passen leveranciers prijzen aan, fluctueren wisselkoersen dagel
 |--------------------|------------------|
 | Alle historische orders herberekenen met huidige COGS en FX-koersen. | Elke transactie matchen met de kosten en wisselkoers die golden op de oorspronkelijke orderdatum. |
 | Historische rapporten veranderen elke keer dat inkoopprijzen veranderen. | Historische rapporten blijven reproduceerbaar en vergelijkbaar over maanden en jaren. |
-| Margeslechtering kan volledig kunstmatig zijn. | Margetrends weerspiegelen echte operationele prestaties. |
+| Margeverslechtering kan volledig kunstmatig zijn. | Margetrends weerspiegelen echte operationele prestaties. |
 
 **Besluitresultaat**
 
@@ -302,7 +289,7 @@ Supplier performance remained stable.
 Marketing spend increased instead.
 ```
 
-Het managementantwoord verandert van leveranciersheronderhandeling naar advertentie-optimalisatie omdat historische winstgevendheid behouden blijft.
+Het managementantwoord verandert van heronderhandeling met leveranciers naar advertentie-optimalisatie omdat de historische winstgevendheid behouden blijft.
 
 <details>
 <summary>Formulelogica</summary>
@@ -328,21 +315,21 @@ Elke lookup matcht zowel de bedrijfssleutel als het ingangsdatuminterval in plaa
 
 ---
 
-### Valkuil 3 — Ervan uitgaan dat marktplaatsuitbetaling gelijk is aan bedrijfswinst
+### Valkuil 3 — Ervan uitgaan dat de marktplaatsuitbetaling gelijk is aan bedrijfswinst
 
 Financiën ontvangt een marktplaatsuitbetaling die lijkt overeen te komen met de verwachte omzet.
 
 De uitbetaling wordt behandeld als bewijs dat de winstgevendheidsberekeningen correct zijn.
 
-Echter, uitbetalingen aggregeren aftrekken uit verschillende operationele processen, waaronder betaalvergoedingen, commissies, terugbetalingen, verzendaanpassingen, reserveringshoudingen, verpakkingskosten en tijdverschillen.
+Uitbetalingen aggregeren echter aftrekken uit meerdere operationele processen, waaronder betaalkosten, commissies, terugbetalingen, verzendaanpassingen, reserveinhoudingen, verpakkingskosten en timingverschillen.
 
 Het matchen van stortingen aan verkopen bewijst geen winstgevendheid.
 
 | Onjuiste benadering | Juiste benadering |
 |--------------------|------------------|
-| Uitbetalingsbedrag als finale winstindicator behandelen. | Elke kostencomponent reconstrueren vóór reconciliatie. |
-| Afwijkingen handmatig onderzoeken na maandeinde. | Orders, uitbetalingen, logistieke facturen en berekende winst continu reconcilieren. |
-| Financiële fouten blijven verborgen tot de boekhouding sluit. | Uitzonderingen worden op individueel orderniveau geïdentificeerd. |
+| Het uitbetalingsbedrag behandelen als de definitieve winstindicator. | Elke kostencomponent reconstrueren vóór reconciliatie. |
+| Afwijkingen handmatig onderzoeken na maandeinde. | Orders, uitbetalingen, logistiekfacturen en berekende winst continu reconcilieren. |
+| Financiële fouten blijven verborgen tot de boekhouding afsluit. | Uitzonderingen worden op individueel orderniveau geïdentificeerd. |
 
 **Besluitresultaat**
 
@@ -366,7 +353,7 @@ Shipping Adjustments           $510
 Unexpected Difference          $650
 ```
 
-Het resterende verschil wordt een uitvoerbaar onderzoek in plaats van te verdwijnen in een geaggregeerd kostenrekening.
+Het resterende verschil wordt een uitvoerbaar onderzoek in plaats van te verdwijnen in een geaggregeerde kostenrekening.
 
 <details>
 <summary>Formulelogica</summary>
@@ -386,7 +373,7 @@ Financial Reconciliation
 Matched / Discrepancy
 ```
 
-Tolerancedrempels worden centraal onderhouden zodat reconciliatieregels consistent blijven in het hele werkboek.
+Tolerantiedrempels worden centraal beheerd zodat de reconciliatieregels consistent blijven in het hele werkboek.
 
 </details>
 
@@ -394,23 +381,23 @@ Tolerancedrempels worden centraal onderhouden zodat reconciliatieregels consiste
 
 ## Voorbeeldscenario
 
-Een multi-channel winkelier verkoopt een bundel bestaande uit een koffiezetapparaat, twee accessoirekits en een gratis filterpakket via Shopify in Duitsland.
+Een multi-channel retailer verkoopt via Shopify in Duitsland een bundel bestaande uit een koffiezetapparaat, twee accessoirekits en een gratis filterpakket.
 
-De orderwaarde is **$249,00**. Verzending wordt uitgevoerd door een derden logistieke provider, inkoopkosten worden bijgehouden in USD, rapportage wordt uitgevoerd in EUR en de klant vraagt twee weken later een gedeeltelijke terugbetaling.
+De orderwaarde is **$249.00**. De verzending wordt uitgevoerd door een externe logistieke provider, de inkoopkosten worden bijgehouden in USD, de rapportage gebeurt in EUR en de klant vraagt twee weken later een gedeeltelijke terugbetaling.
 
-Met een conventioneel spreadsheet lijkt winstgevendheid rechttoe-rechtaan. Omzet wordt verminderd met een geschatte commissie, verzending wordt gelijkmatig over elk product verdeeld en de nieuwste inkoopkosten worden toegepast omdat het de enige beschikbare waarde is. Het resulterende rapport toont een gezonde marge van ongeveer **24%**, wat het merchandising team aanmoedigt om advertenties voor vergelijkbare bundels uit te breiden.
+Met een conventioneel spreadsheet lijkt winstgevendheid eenvoudig. Van de omzet wordt een geschatte commissie afgetrokken, verzending wordt gelijkmatig over elk product verdeeld en de nieuwste inkoopkosten worden toegepast omdat dat de enige beschikbare waarde is. Het resulterende rapport toont een gezonde marge van ongeveer **24%**, wat het merchandisingteam aanmoedigt om advertenties voor vergelijkbare bundels uit te breiden.
 
-De berekening verandert wezenlijk na reconstructie van de transactie met dit werkboek.
+De berekening verandert aanzienlijk nadat de transactie met dit werkboek is gereconstrueerd.
 
-De engine haalt eerst de inkoopkosten op die golden op de oorspronkelijke orderdatum in plaats van de leveranciersprijs van vandaag. Historische wisselkoersen normaliseren elk financieel component naar de rapportagevaluta. Bundelkoppeling wijst inkoopkosten toe aan de onderliggende fysieke producten in plaats van de virtuele bundel-SKU. Daadwerkelijke logistieke facturen overschrijven geschatte vracht, terwijl de terugbetaling wordt toegerekend aan de oorspronkelijke order in plaats van winstgevendheid in een latere rapportageperiode te verminderen.
+De engine haalt eerst de inkoopkosten op die geldig waren op de oorspronkelijke orderdatum in plaats van de leveranciersprijs van vandaag. Historische wisselkoersen normaliseren elke financiële component naar de rapportagevaluta. Bundelkoppeling wijst de inkoopkosten toe aan de onderliggende fysieke producten in plaats van de virtuele bundel-SKU. Werkelijke logistiekfacturen overschrijven de geschatte vracht, terwijl de terugbetaling wordt toegerekend aan de oorspronkelijke order in plaats van de winstgevendheid in een latere rapportageperiode te verminderen.
 
-Het eindresultaat toont een nettomarge dichter bij **15%** dan **24%**.
+Het eindresultaat toont een nettomarge dichter bij **15%** in plaats van **24%**.
 
-Niets aan de order is veranderd.
+Aan de order is niets veranderd.
 
 Alleen de financiële aannames werden historisch accuraat.
 
-Voor operationele besluitvorming is dat onderscheid relevant. Het merchandising team vermijdt het opschalen van een advertentiecampagne die alleen winstgevend leek omdat verzendtoewijzing, historische inkoopkosten en toerekening van terugbetalingen te sterk waren vereenvoudigd.
+Voor operationele besluitvorming maakt dat onderscheid uit. Het merchandisingteam vermijdt het opschalen van een advertentiecampagne die alleen winstgevend leek omdat verzendtoewijzing, historische inkoopkosten en toerekening van terugbetalingen te sterk waren vereenvoudigd.
 
 ---
 
@@ -485,7 +472,7 @@ De reconciliatie-engine vergelijkt:
 - Marktplaatsuitbetalingen
 - Logistieke facturen
 - Terugbetalingstransacties
-- Betaalvergoedingen
+- Betaalkosten
 
 Uitvoer omvat reconciliatiestatus, geldverschillen en configureerbare uitzonderingsdrempels.
 
@@ -499,11 +486,11 @@ Uitvoer omvat reconciliatiestatus, geldverschillen en configureerbare uitzonderi
 |------|-----------------|----------------|
 | Order ID | Moet uniek en niet leeg zijn. | Dubbele orders worden gemarkeerd voor beoordeling. |
 | Order Date | Moet bestaan binnen historische tariefdekking. | Ontbrekende historische tarieven triggeren lookup-uitzonderingen. |
-| Currency | Moet bestaan in de wisselkoerstabel. | Valutanormalisatie wordt voorkomen tot opgelost. |
+| Currency | Moet bestaan in de wisselkoerstabel. | Valutanormalisatie wordt voorkomen tot het probleem is opgelost. |
 | SKU | Moet bestaan in de product- of bundelkoppelingstabellen. | Inkoopkosten kunnen niet worden toegewezen. |
 | Historical Cost | Ingangsdatumbereiken mogen niet overlappen voor dezelfde SKU. | Conflicterende historische waarden worden gemarkeerd. |
-| Shipping Invoice | Meerdere facturen moeten reconcilieren met dezelfde zending. | Verzendingsbetrouwbaarheid wordt verlaagd. |
-| Refund Reference | Oorspronkelijke order moet bestaan. | Terugbetaling kan niet automatisch worden toegerekend. |
+| Shipping Invoice | Meerdere facturen moeten reconciliëren met dezelfde zending. | Verzendingsbetrouwbaarheid wordt verlaagd. |
+| Refund Reference | De oorspronkelijke order moet bestaan. | De terugbetaling kan niet automatisch worden toegerekend. |
 | Marketplace Fee | Historisch tariefschema vereist. | Standaard terugvaltarief wordt gebruikt wanneer toegestaan. |
 | Reconciliation Difference | Moet binnen de geconfigureerde tolerantie blijven. | Status verandert naar **DISCREPANCY**. |
 | Dashboard KPIs | Hangen alleen af van gevalideerde berekeningsuitvoer. | Ongeldige upstream-gegevens propageren zichtbare waarschuwingsindicatoren. |
@@ -512,14 +499,36 @@ Uitvoer omvat reconciliatiestatus, geldverschillen en configureerbare uitzonderi
 
 ---
 
+## De bedrijfslogica & methodologie
+
+De meeste e-commercebedrijven vervallen uiteindelijk in de **„groeïllusie"**—de omzet ziet er gezond uit op Shopify- of Amazon-Seller-Central-dashboards, maar de nettowinst onderaan bloedt weg door onzichtbare operationele wrijving. Dit gebeurt omdat standaardrapportage vertrouwt op cash-basis benaderingen in plaats van exacte **unit-economie op orderniveau**.
+
+Deze e-commerce winst- & reconciliatietoolkit vervangt gefragmenteerde dashboardcijfers door een deterministisch financieel modelleerkader. Hier is de methodologie die wordt gebruikt om complexe omnichannel boekhoudproblemen op te lossen:
+
+### 1. Deterministische matching op orderniveau (het oplossen van de timingmismatch)
+*   **Het bedrijfsprobleem:** Terugbetalingen, 3PL-logistiekfacturen en marktplaatsuitbetalingen (van Stripe, PayPal of Amazon) worden vaak pas weken of maanden na de oorspronkelijke verkoop afgewikkeld. Het gebruik van standaard kasstroomschema's vertekent uw maandelijkse margeanalyse.
+*   **Onze methodologie:** In plaats van periodegebaseerde kasstroomtracking verankert deze toolkit elke financiële gebeurtenis strikt aan de *oorspronkelijke order-ID*. Deze **accrual-achtige financiële matching** zorgt ervoor dat de vertraagde terugbetalingen of retroactieve leverancierskortingen van vorige maand de historische prestaties nauwkeurig corrigeren, in plaats van de nettowinstcijfers van deze maand kunstmatig te vernietigen.
+
+### 2. Waterfall-kostentoewijzing (verborgen e-commercekosten blootleggen)
+*   **Het bedrijfsprobleem:** De brutomarges in e-commerce worden vaak verkeerd berekend omdat betaalgatewaykosten, btw/omzetbelasting-aftrekken en grensoverschrijdende valutaspreads in standaard CMS-rapporten worden gemengd of volledig genegeerd.
+*   **Onze methodologie:** Wij implementeren een streng **waterfall-margeattributiemodel**. Van de brutoomzet wordt systematisch stap voor stap afgedroogd om het werkelijk resterende geld bloot te leggen: 
+    *Brutoverkopen → minus btw/belastingen → minus betaalverwerkingskosten → minus marktplaatscommissies → minus COGS op exacte datum (Cost of Goods Sold) → minus werkelijk vracht = **echte nettomarge**.*
+
+### 3. Hiërarchische vrachttoewijzing (multi-SKU- & bundelkosten corrigeren)
+*   **Het bedrijfsprobleem:** Forfaitaire verzendkostenschattingen zorgen ervoor dat producten met hoge marge zware producten met lage marge subsidiëren. Deze blinde vlek leidt tot rampzalige voorraadaankopen en verkeerd uitgelijnde ROAS-doelen (Return on Ad Spend).
+*   **Onze methodologie:** De toolkit gebruikt **hiërarchische 3PL-vrachttoewijzing**. De engine prioriteert eerst exacte kostenmatching van werkelijke logistiekfacturen. Als de officiële vervoerdersfacturatie in behandeling is, valt de logica terug op een gevalideerde algoritmische schatting (gebaseerd op volumegewicht of aangepaste bedrijfslogica), zodat promotiebundels en multi-SKU-orders nooit vertekende verzendkosten toegewezen krijgen.
+
+---
+
+
 ## Andere tools in deze serie
 
-- **Toolkit voor productie-arbeidskosten & capaciteitsplanning** — Analyseer gebruik van personeel, productiecapaciteit en efficiëntie van arbeidskosten.
-- **Toolkit voor vraagadaptieve voorraadplanning** — Plan aanvulling met levertermijn, vraagvariabiliteit en inkoopscenario's.
-- **Toolkit voor verhuuroperaties** — Monitor bezetting, vacanties, onderhoud en verhuurprestaties uit één enkel werkboek.
-- **Toolkit voor projectportefeuilleplanning** — Volg budgetten, schema's, prioriteiten en voortgang van levering over meerdere initiatieven.
+- **Toolkit voor productie-arbeidskosten & capaciteitsplanning** — Analyseer personeelsinzet, productiecapaciteit en arbeidskostenefficiëntie.
+- **Toolkit voor vraagadaptieve voorraadplanning** — Plan aanvulling met doorlooptijd, vraagvariabiliteit en inkoopscenario's.
+- **Toolkit voor verhuurwoning-operaties** — Monitor bezetting, leegstand, onderhoud en verhuurprestaties vanuit één werkboek.
+- **Toolkit voor projectportfolio-planning** — Volg budgetten, planningen, prioriteiten en leveringsvoortgang over meerdere initiatieven.
 
-Meer operationele beslissingsondersteuningstools zijn beschikbaar via onze [Website](https://www.theseusworkshop.com/) en GitHub-profiel.
+Meer operationele beslissingsondersteuningstools zijn beschikbaar via onze [Website](https://www.theseusworkshop.com/) en het GitHub-profiel.
 
 ---
 
